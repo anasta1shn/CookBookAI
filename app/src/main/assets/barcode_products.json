@@ -1,0 +1,4466 @@
+[
+  {
+    "barcode": "4601342001050",
+    "name": "Вода ВОЛЖАНКА негаз стекло",
+    "calories": 0,
+    "proteins": 0.0,
+    "fats": 0.0,
+    "carbs": 0.0,
+    "weight": 100
+  },
+  {
+    "barcode": "4601342000640",
+    "name": "Вода ВОЛЖАНКА газ стекло",
+    "calories": 0,
+    "proteins": 0.0,
+    "fats": 0.0,
+    "carbs": 0.0,
+    "weight": 100
+  },
+  {
+    "barcode": "4014400914245",
+    "name": "Merci",
+    "calories": 578,
+    "proteins": 7.1,
+    "fats": 38.2,
+    "carbs": 50.6,
+    "weight": 100
+  },
+  {
+    "barcode": "4607053473544",
+    "name": "Молоко Простоквашино 2.5%",
+    "calories": 53,
+    "proteins": 3,
+    "fats": 2.5,
+    "carbs": 4.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4607025396819",
+    "name": "Молоко Домик в деревне 2.5%",
+    "calories": 53,
+    "proteins": 3,
+    "fats": 2.5,
+    "carbs": 4.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4607048482056",
+    "name": "Молоко Хорошее дело 3.2%",
+    "calories": 60,
+    "proteins": 3,
+    "fats": 3.2,
+    "carbs": 4.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4607002650873",
+    "name": "Молоко Пестравка 3.2%",
+    "calories": 60,
+    "proteins": 3,
+    "fats": 3.2,
+    "carbs": 4.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4601751014429",
+    "name": "Молоко Волжские просторы 2.5%",
+    "calories": 53,
+    "proteins": 3,
+    "fats": 2.5,
+    "carbs": 4.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4601751009975",
+    "name": "Сметана волжские просторы 15%",
+    "calories": 160,
+    "proteins": 2.6,
+    "fats": 15,
+    "carbs": 3.6,
+    "weight": 100
+  },
+  {
+    "barcode": "4600949060019",
+    "name": "Сметана Домик в деревне 15%",
+    "calories": 160,
+    "proteins": 2.6,
+    "fats": 15,
+    "carbs": 3.6,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605029251",
+    "name": "Сметана Простоквашино 20%",
+    "calories": 204,
+    "proteins": 2.5,
+    "fats": 20,
+    "carbs": 3.4,
+    "weight": 100
+  },
+  {
+    "barcode": "4600653000080",
+    "name": "Сметана Село зеленое 15%",
+    "calories": 160,
+    "proteins": 2.6,
+    "fats": 15,
+    "carbs": 3.6,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605027721",
+    "name": "Творог Простоквашино рассыпчатый 5%",
+    "calories": 121,
+    "proteins": 16,
+    "fats": 5,
+    "carbs": 3,
+    "weight": 100
+  },
+  {
+    "barcode": "4601751006981",
+    "name": "Творог Волжские просторы 5%",
+    "calories": 157,
+    "proteins": 15.7,
+    "fats": 9,
+    "carbs": 3,
+    "weight": 100
+  },
+  {
+    "barcode": "04731290",
+    "name": "Продукт творожный Простоквашино Творожок Клубника/ Земляника",
+    "calories": 110,
+    "proteins": 6.6,
+    "fats": 3.6,
+    "carbs": 12.9,
+    "weight": 100
+  },
+  {
+    "barcode": "4810268030369",
+    "name": "Йогурт TEOS Греческий Натуральный 2%",
+    "calories": 67,
+    "proteins": 8,
+    "fats": 2,
+    "carbs": 4.2,
+    "weight": 100
+  },
+  {
+    "barcode": "4810268018114",
+    "name": "Паста творожная САВУШКИН Черника",
+    "calories": 111.5,
+    "proteins": 7,
+    "fats": 3.5,
+    "carbs": 13,
+    "weight": 100
+  },
+  {
+    "barcode": "400605032732",
+    "name": "Биойогурт АКТИБИО",
+    "calories": 51,
+    "proteins": 3.5,
+    "fats": 1.8,
+    "carbs": 5.3,
+    "weight": 100
+  },
+  {
+    "barcode": "4605782050517",
+    "name": "Йогурт питьевой ЧУДО Клубника/ Земляника",
+    "calories": 84,
+    "proteins": 2.8,
+    "fats": 1.9,
+    "carbs": 13.9,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605014509",
+    "name": "Десерт Даниссимо Творожный крем/ Хрустящие шарики",
+    "calories": 156,
+    "proteins": 5.2,
+    "fats": 7.2,
+    "carbs": 17.2,
+    "weight": 100
+  },
+  {
+    "barcode": "4009900503365",
+    "name": "Жевательная резинка Orbit Bubblemint",
+    "calories": 150,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 61,
+    "weight": 100
+  },
+  {
+    "barcode": "5201360521210",
+    "name": "Круассан 7DAYS с кремом со вкусом Варная сгущенка",
+    "calories": 460,
+    "proteins": 6.8,
+    "fats": 28,
+    "carbs": 44,
+    "weight": 100
+  },
+  {
+    "barcode": "1204577910000",
+    "name": "Изделие кондитерское CHOCO PIE ORION",
+    "calories": 430,
+    "proteins": 4.5,
+    "fats": 18,
+    "carbs": 63,
+    "weight": 100
+  },
+  {
+    "barcode": "4008400183022",
+    "name": "Конфеты RAFFAELLO Миндаль/ Кокос",
+    "calories": 628,
+    "proteins": 7.2,
+    "fats": 48.6,
+    "carbs": 38.3,
+    "weight": 100
+  },
+  {
+    "barcode": "0000040084077",
+    "name": "Шоколад Kinder Maxi Молочный",
+    "calories": 566,
+    "proteins": 8.8,
+    "fats": 35,
+    "carbs": 53.5,
+    "weight": 100
+  },
+  {
+    "barcode": "14815214",
+    "name": "Шоколадное яйцо Kinder Сюрприз из моложного шоколада",
+    "calories": 552,
+    "proteins": 8.1,
+    "fats": 34.2,
+    "carbs": 52.3,
+    "weight": 100
+  },
+  {
+    "barcode": "4600384001110",
+    "name": "Шоколад РОССИЯ ЩЕДРАЯ ДУША Молочный",
+    "calories": 515,
+    "proteins": 6.7,
+    "fats": 27.1,
+    "carbs": 58,
+    "weight": 100
+  },
+  {
+    "barcode": "4600823009059",
+    "name": "Шоколад ВДОХНОВЕНИЕ Темный Классический",
+    "calories": 560,
+    "proteins": 8,
+    "fats": 38,
+    "carbs": 44,
+    "weight": 100
+  },
+  {
+    "barcode": "4600080293208",
+    "name": "Шоколад АЛЕНКА Молочный",
+    "calories": 530,
+    "proteins": 5,
+    "fats": 30,
+    "carbs": 59,
+    "weight": 100
+  },
+  {
+    "barcode": "4600815001740",
+    "name": "Батончик PICNIC Big Конфета с арахисом и изюмом",
+    "calories": 488,
+    "proteins": 7,
+    "fats": 25,
+    "carbs": 57,
+    "weight": 100
+  },
+  {
+    "barcode": "7622201770990",
+    "name": "Шоколад MILKA Молочный с фундуком и изюмом",
+    "calories": 489,
+    "proteins": 5.7,
+    "fats": 26,
+    "carbs": 59,
+    "weight": 100
+  },
+  {
+    "barcode": "4011100977952",
+    "name": "Печенье TWIX",
+    "calories": 498,
+    "proteins": 3.9,
+    "fats": 24.4,
+    "carbs": 64.8,
+    "weight": 100
+  },
+  {
+    "barcode": "4011100977716",
+    "name": "Шоколадный батончик SNICKERS",
+    "calories": 500,
+    "proteins": 7.8,
+    "fats": 23,
+    "carbs": 60,
+    "weight": 100
+  },
+  {
+    "barcode": "4630007400020",
+    "name": "Семечки подсолнечника БЕЛОЧКА жареные",
+    "calories": 660,
+    "proteins": 27,
+    "fats": 58,
+    "carbs": 9,
+    "weight": 100
+  },
+  {
+    "barcode": "4607069330244",
+    "name": "Чипсы LAY'S Краб",
+    "calories": 530,
+    "proteins": 6,
+    "fats": 32.5,
+    "carbs": 53,
+    "weight": 100
+  },
+  {
+    "barcode": "4690388058166",
+    "name": "Чипсы LAY'S Из печи Лисички в сметане",
+    "calories": 450,
+    "proteins": 5.5,
+    "fats": 15.6,
+    "carbs": 68,
+    "weight": 100
+  },
+  {
+    "barcode": "4607003120887",
+    "name": "Чипсы DELICADOS Начос Сметанный соус Ранч",
+    "calories": 460,
+    "proteins": 6,
+    "fats": 23,
+    "carbs": 57,
+    "weight": 100
+  },
+  {
+    "barcode": "4018077712357",
+    "name": "Чипсы NATURALS Классические с солью",
+    "calories": 527,
+    "proteins": 5.2,
+    "fats": 34,
+    "carbs": 48.1,
+    "weight": 100
+  },
+  {
+    "barcode": "4607069337427",
+    "name": "Кукурузные палочки CHEETOS со вкусом кетчупа",
+    "calories": 490,
+    "proteins": 7.5,
+    "fats": 23,
+    "carbs": 63,
+    "weight": 100
+  },
+  {
+    "barcode": "4601342001036",
+    "name": "Вода питьевая ВОЛЖАНКА негазированная",
+    "calories": 0,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 0,
+    "weight": 100
+  },
+  {
+    "barcode": "4600494510601",
+    "name": "Напиток безалкогольный негазированный AQUA MINERALE Лимон",
+    "calories": 19,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 4.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4603334001154",
+    "name": "Вода СВЯТОЙ ИСТОЧНИК со вкусом лимона негазированная",
+    "calories": 10,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 2.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600494515781",
+    "name": "Напиток безалкогольный негазированный ЛИПТОН Холодный зеленый чай",
+    "calories": 30,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 6.9,
+    "weight": 100
+  },
+  {
+    "barcode": "4600494515842",
+    "name": "Напиток безалкогольный негазированный ЛИПТОН Холодный чай лимон",
+    "calories": 30,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 7,
+    "weight": 100
+  },
+  {
+    "barcode": "4602441004959",
+    "name": "Напиток б/ф газ. ДОБРЫЙ Кола",
+    "calories": 42,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 10.6,
+    "weight": 100
+  },
+  {
+    "barcode": "4602441000067",
+    "name": "Напиток б/а газ. ЧЕРНОГОЛОВКА Байкал",
+    "calories": 40,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 10,
+    "weight": 100
+  },
+  {
+    "barcode": "4607138021004",
+    "name": "Зефир БЕКОВСКИЙ",
+    "calories": 320,
+    "proteins": 1,
+    "fats": 0.1,
+    "carbs": 83,
+    "weight": 100
+  },
+  {
+    "barcode": "4007415023545",
+    "name": "Пастила БЕЛЕВСКАЯ Классическая без добавления сахара",
+    "calories": 276,
+    "proteins": 4,
+    "fats": 0,
+    "carbs": 65,
+    "weight": 100
+  },
+  {
+    "barcode": "2098765932528",
+    "name": "Halva",
+    "calories": 579,
+    "proteins": 12,
+    "fats": 39,
+    "carbs": 45,
+    "weight": 100
+  },
+  {
+    "barcode": "2098766091583",
+    "name": "Sultys WD",
+    "calories": 43,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 10,
+    "weight": 100
+  },
+  {
+    "barcode": "2099999994993",
+    "name": "Лапша Гречневая Соба",
+    "calories": 350,
+    "proteins": 15,
+    "fats": 1,
+    "carbs": 71,
+    "weight": 100
+  },
+  {
+    "barcode": "4607093920107",
+    "name": "Тестовый продукт",
+    "calories": 216,
+    "proteins": 4.5,
+    "fats": 9.1,
+    "carbs": 29.1,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100066376",
+    "name": "Паштет Из Мяса Индейки",
+    "calories": 247,
+    "proteins": 11,
+    "fats": 22,
+    "carbs": 1.2,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100105372",
+    "name": "Фруктово-ореховый батончик Шоколад-протеин",
+    "calories": 376,
+    "proteins": 22.3,
+    "fats": 11,
+    "carbs": 47,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100106942",
+    "name": "Пряники С Вишней",
+    "calories": 366,
+    "proteins": 4.3,
+    "fats": 5.2,
+    "carbs": 75.6,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100110420",
+    "name": "Пряники",
+    "calories": 411,
+    "proteins": 8.8,
+    "fats": 9.8,
+    "carbs": 71.9,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100113025",
+    "name": "Вареники С Сыром, Помидором И Базиликом",
+    "calories": 191,
+    "proteins": 13.1,
+    "fats": 2.9,
+    "carbs": 28.1,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100195410",
+    "name": "Айран 2%",
+    "calories": 32,
+    "proteins": 1.4,
+    "fats": 2,
+    "carbs": 2.2,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100222604",
+    "name": "Молоко 3.2% Безлактозное",
+    "calories": 59,
+    "proteins": 3,
+    "fats": 3.2,
+    "carbs": 4.5,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100296742",
+    "name": "Сосиски &quot;Куриные Суперсила&quot;",
+    "calories": 100,
+    "proteins": 15,
+    "fats": 4.5,
+    "carbs": 0,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100305994",
+    "name": "Йогурт черника 2,5%",
+    "calories": 61,
+    "proteins": 3,
+    "fats": 2.5,
+    "carbs": 6.7,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100379537",
+    "name": "Котлеты куриные с моцареллой с булгуром, киноа и овощами",
+    "calories": 154,
+    "proteins": 10.2,
+    "fats": 8.5,
+    "carbs": 9.3,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100457334",
+    "name": "Равиоли С Крабом Камчатским, Креветками Северными И Сыром Моцарелла",
+    "calories": 187,
+    "proteins": 11.1,
+    "fats": 3.9,
+    "carbs": 26.9,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100465711",
+    "name": "Говядина филей",
+    "calories": 136,
+    "proteins": 16,
+    "fats": 8,
+    "carbs": 0,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100618094",
+    "name": "Кекс Домашний С Какао",
+    "calories": 388,
+    "proteins": 6,
+    "fats": 21.5,
+    "carbs": 42.5,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100638160",
+    "name": "Тирамису",
+    "calories": 332,
+    "proteins": 4.8,
+    "fats": 26.9,
+    "carbs": 17.8,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100652913",
+    "name": "Беляши «Куряш»",
+    "calories": 176,
+    "proteins": 10,
+    "fats": 4,
+    "carbs": 25,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100653149",
+    "name": "Сырники классические замороженные",
+    "calories": 223,
+    "proteins": 14.7,
+    "fats": 10.3,
+    "carbs": 17.8,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100654696",
+    "name": "Арахисовый Батончик С Соленой Карамелью С Вкусом Ириса",
+    "calories": 522,
+    "proteins": 11.4,
+    "fats": 28,
+    "carbs": 56,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100655051",
+    "name": "Амарантовые Хлебцы",
+    "calories": 388,
+    "proteins": 11.6,
+    "fats": 7.3,
+    "carbs": 69.2,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100675127",
+    "name": "Чипсы Рисовые Томат С Зеленью",
+    "calories": 337,
+    "proteins": 6.7,
+    "fats": 1.7,
+    "carbs": 73.7,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100687199",
+    "name": "Стейк Мачете",
+    "calories": 140,
+    "proteins": 14,
+    "fats": 8,
+    "carbs": 0,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100696818",
+    "name": "Пельмени с мраморной говядиной и цыплёнком",
+    "calories": 212,
+    "proteins": 12.6,
+    "fats": 8.4,
+    "carbs": 21.4,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100710576",
+    "name": "Рябина Черноплодная Быстрозамороженная",
+    "calories": 51,
+    "proteins": 1.5,
+    "fats": 0.2,
+    "carbs": 10.9,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100729585",
+    "name": "Онигири Краб Спайки",
+    "calories": 233,
+    "proteins": 3.8,
+    "fats": 7.4,
+    "carbs": 37.7,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100738105",
+    "name": "Пельмени Алтайские",
+    "calories": 305,
+    "proteins": 9.5,
+    "fats": 18.6,
+    "carbs": 25,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100746711",
+    "name": "Биточки Из Мяса Курицы С Сыром",
+    "calories": 166,
+    "proteins": 16.6,
+    "fats": 10.6,
+    "carbs": 1,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100760618",
+    "name": "Вафли Голландские С Молочной Карамелью",
+    "calories": 393,
+    "proteins": 4.5,
+    "fats": 15,
+    "carbs": 60,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100768607",
+    "name": "Пирог &quot;Сметанник&quot; с черникой",
+    "calories": 299,
+    "proteins": 5.1,
+    "fats": 19.8,
+    "carbs": 25.2,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100834357",
+    "name": "Сосиски С Сыром",
+    "calories": 341,
+    "proteins": 14.8,
+    "fats": 30.5,
+    "carbs": 1.9,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100853426",
+    "name": "Хлебцы Из Зеленой Гречки",
+    "calories": 365,
+    "proteins": 15.3,
+    "fats": 1.4,
+    "carbs": 72.9,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100854447",
+    "name": "Торт Блинный Шоколадный",
+    "calories": 313,
+    "proteins": 6.5,
+    "fats": 19,
+    "carbs": 28.9,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100855680",
+    "name": "Феттучине С Яйцом И Шпинатом",
+    "calories": 283,
+    "proteins": 10.6,
+    "fats": 1.9,
+    "carbs": 54.9,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100865221",
+    "name": "Шаурма с курицей и соусом &quot;Бургер&quot;",
+    "calories": 92,
+    "proteins": 10.7,
+    "fats": 10.5,
+    "carbs": 20.1,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100882297",
+    "name": "Чипсы Барбекю",
+    "calories": 508,
+    "proteins": 5.5,
+    "fats": 25.8,
+    "carbs": 63.5,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100904852",
+    "name": "Пастила яблочная ассорти &quot;Фруктово-ягодное&quot;",
+    "calories": 183,
+    "proteins": 1.5,
+    "fats": 0.1,
+    "carbs": 44,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100919214",
+    "name": "Шоколад на меду (Горький)",
+    "calories": 578,
+    "proteins": 8.1,
+    "fats": 43,
+    "carbs": 39.7,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100957780",
+    "name": "Батончик Протеиновый &quot;Малина&quot;",
+    "calories": 360,
+    "proteins": 25,
+    "fats": 21,
+    "carbs": 18,
+    "weight": 100
+  },
+  {
+    "barcode": "2100100996345",
+    "name": "Батончик карамельный",
+    "calories": 532,
+    "proteins": 9.4,
+    "fats": 35.2,
+    "carbs": 44.5,
+    "weight": 100
+  },
+  {
+    "barcode": "2100101036781",
+    "name": "Яйцо С0 Куриное",
+    "calories": 157,
+    "proteins": 12.7,
+    "fats": 11.5,
+    "carbs": 0.7,
+    "weight": 100
+  },
+  {
+    "barcode": "2100101038891",
+    "name": "Бескостное мясо бедра цыпленка в маринаде &quot;Сладкий чили&quot;",
+    "calories": 109,
+    "proteins": 16.9,
+    "fats": 3.1,
+    "carbs": 3.3,
+    "weight": 100
+  },
+  {
+    "barcode": "2100101039171",
+    "name": "Батон без добавления сахара",
+    "calories": 247,
+    "proteins": 8.2,
+    "fats": 2.5,
+    "carbs": 47.9,
+    "weight": 100
+  },
+  {
+    "barcode": "2100101040986",
+    "name": "Хлеб Тостовый Нарезка",
+    "calories": 239,
+    "proteins": 6.6,
+    "fats": 1.7,
+    "carbs": 49.3,
+    "weight": 100
+  },
+  {
+    "barcode": "2100101050176",
+    "name": "Мини-чиабатта С Индейкой, Сыром Гауда И Соусом песто",
+    "calories": 247,
+    "proteins": 8.6,
+    "fats": 12.7,
+    "carbs": 24.8,
+    "weight": 100
+  },
+  {
+    "barcode": "2100101051685",
+    "name": "Пельмени Замороженные «Оренбургские»",
+    "calories": 282,
+    "proteins": 16.5,
+    "fats": 12.3,
+    "carbs": 26.3,
+    "weight": 100
+  },
+  {
+    "barcode": "2100101083730",
+    "name": "Блины с мясом по-грузински",
+    "calories": 224,
+    "proteins": 8.8,
+    "fats": 10.9,
+    "carbs": 22.8,
+    "weight": 100
+  },
+  {
+    "barcode": "2100101091278",
+    "name": "Завиток С Корицей",
+    "calories": 418,
+    "proteins": 7,
+    "fats": 26.5,
+    "carbs": 38,
+    "weight": 100
+  },
+  {
+    "barcode": "2100101104749",
+    "name": "Кесадилья с курицей, шпинатом и моцареллой",
+    "calories": 274,
+    "proteins": 14.4,
+    "fats": 14.9,
+    "carbs": 20.6,
+    "weight": 100
+  },
+  {
+    "barcode": "2100291000012",
+    "name": "Блины с творогом",
+    "calories": 230,
+    "proteins": 7.9,
+    "fats": 13.6,
+    "carbs": 19,
+    "weight": 100
+  },
+  {
+    "barcode": "2116590001384",
+    "name": "Шницель куриный в панировке жаренный",
+    "calories": 207,
+    "proteins": 19.7,
+    "fats": 3,
+    "carbs": 4,
+    "weight": 100
+  },
+  {
+    "barcode": "2145438002344",
+    "name": "Салат Греческий От Бренд Шефа",
+    "calories": 84,
+    "proteins": 3.9,
+    "fats": 6,
+    "carbs": 3.5,
+    "weight": 100
+  },
+  {
+    "barcode": "2181571003565",
+    "name": "Омуль Холодного Копчения",
+    "calories": 131,
+    "proteins": 17,
+    "fats": 7,
+    "carbs": 0,
+    "weight": 100
+  },
+  {
+    "barcode": "2182527004506",
+    "name": "Блинчики с Грушей И Мятным Кремом",
+    "calories": 245,
+    "proteins": 4.8,
+    "fats": 15.3,
+    "carbs": 22,
+    "weight": 100
+  },
+  {
+    "barcode": "2200986000003",
+    "name": "Пасхальный кулич с драже и сливочной начинкой",
+    "calories": 350,
+    "proteins": 6.7,
+    "fats": 12.9,
+    "carbs": 52.6,
+    "weight": 100
+  },
+  {
+    "barcode": "2238277003303",
+    "name": "Йогурт питьевой &quot;Манго&quot; МДж 3,0-4,4%",
+    "calories": 86,
+    "proteins": 2.6,
+    "fats": 3,
+    "carbs": 12.2,
+    "weight": 100
+  },
+  {
+    "barcode": "2238351002000",
+    "name": "Йогурт &quot;Персик-маракуйя&quot;",
+    "calories": 100,
+    "proteins": 2.8,
+    "fats": 3.2,
+    "carbs": 14.8,
+    "weight": 100
+  },
+  {
+    "barcode": "2238354002007",
+    "name": "Йогурт &quot;Груша&quot; с семенами чиа",
+    "calories": 110,
+    "proteins": 3.1,
+    "fats": 4,
+    "carbs": 15.5,
+    "weight": 100
+  },
+  {
+    "barcode": "2243199003300",
+    "name": "Йогурт питьевой &quot;Ананас&quot;",
+    "calories": 92,
+    "proteins": 2.9,
+    "fats": 3.3,
+    "carbs": 12.6,
+    "weight": 100
+  },
+  {
+    "barcode": "2319705003000",
+    "name": "Кантуччи",
+    "calories": 378,
+    "proteins": 6.5,
+    "fats": 7.5,
+    "carbs": 71,
+    "weight": 100
+  },
+  {
+    "barcode": "2319865002509",
+    "name": "Печенье Воздушное Морозко",
+    "calories": 304,
+    "proteins": 7.3,
+    "fats": 2.9,
+    "carbs": 62.1,
+    "weight": 100
+  },
+  {
+    "barcode": "2350008003168",
+    "name": "Granapadano",
+    "calories": 398,
+    "proteins": 33,
+    "fats": 29,
+    "carbs": 0,
+    "weight": 100
+  },
+  {
+    "barcode": "2350502003305",
+    "name": "Печенье овсяное царское сокровище",
+    "calories": 420,
+    "proteins": 5.5,
+    "fats": 15,
+    "carbs": 64,
+    "weight": 100
+  },
+  {
+    "barcode": "2353837003187",
+    "name": "Овсяное печенье",
+    "calories": 430,
+    "proteins": 6,
+    "fats": 13,
+    "carbs": 70,
+    "weight": 100
+  },
+  {
+    "barcode": "2358834003789",
+    "name": "Кимчи",
+    "calories": 40,
+    "proteins": 1,
+    "fats": 2,
+    "carbs": 4,
+    "weight": 100
+  },
+  {
+    "barcode": "2415803000009",
+    "name": "Пирожное Колечко С Творогом",
+    "calories": 240,
+    "proteins": 4,
+    "fats": 12.5,
+    "carbs": 26.04,
+    "weight": 100
+  },
+  {
+    "barcode": "2435421000007",
+    "name": "Улитка с Творожным Кремом и Корицей",
+    "calories": 357,
+    "proteins": 2.4,
+    "fats": 16.5,
+    "carbs": 49.7,
+    "weight": 100
+  },
+  {
+    "barcode": "2512103005779",
+    "name": "Филе циплят бройлеров",
+    "calories": 105,
+    "proteins": 23.1,
+    "fats": 1.2,
+    "carbs": 0,
+    "weight": 100
+  },
+  {
+    "barcode": "2531663077736",
+    "name": "Куриный суп пюре с сухариками",
+    "calories": 62,
+    "proteins": 4.5,
+    "fats": 2,
+    "carbs": 10,
+    "weight": 100
+  },
+  {
+    "barcode": "2602183003465",
+    "name": "Вафельные трубочки Эль Торо",
+    "calories": 318,
+    "proteins": 3.3,
+    "fats": 11,
+    "carbs": 52.6,
+    "weight": 100
+  },
+  {
+    "barcode": "2604022000017",
+    "name": "Сдоба Лакомка",
+    "calories": 316,
+    "proteins": 6.1,
+    "fats": 6.7,
+    "carbs": 57.9,
+    "weight": 100
+  },
+  {
+    "barcode": "2604656002944",
+    "name": "Печенье Сластена Сметанная",
+    "calories": 331,
+    "proteins": 6.4,
+    "fats": 11.8,
+    "carbs": 27.7,
+    "weight": 100
+  },
+  {
+    "barcode": "2607898002222",
+    "name": "Коврижка чернослив/вино",
+    "calories": 370,
+    "proteins": 4,
+    "fats": 7,
+    "carbs": 72,
+    "weight": 100
+  },
+  {
+    "barcode": "2610141002122",
+    "name": "Брауни",
+    "calories": 364,
+    "proteins": 5,
+    "fats": 16,
+    "carbs": 46,
+    "weight": 100
+  },
+  {
+    "barcode": "2611258002005",
+    "name": "Вафли Азиатка",
+    "calories": 350,
+    "proteins": 3,
+    "fats": 15,
+    "carbs": 51,
+    "weight": 100
+  },
+  {
+    "barcode": "2611701000015",
+    "name": "Арбатские рогалики",
+    "calories": 268,
+    "proteins": 8.3,
+    "fats": 2.2,
+    "carbs": 52.4,
+    "weight": 100
+  },
+  {
+    "barcode": "2611864003069",
+    "name": "Овсяное печенье Царская особа",
+    "calories": 340,
+    "proteins": 4.5,
+    "fats": 11,
+    "carbs": 66,
+    "weight": 100
+  },
+  {
+    "barcode": "2611906002289",
+    "name": "Печенье крем брюлк",
+    "calories": 390,
+    "proteins": 4,
+    "fats": 12,
+    "carbs": 67,
+    "weight": 100
+  },
+  {
+    "barcode": "2613625002342",
+    "name": "Печенье Чик Пик",
+    "calories": 318,
+    "proteins": 3.3,
+    "fats": 11,
+    "carbs": 52.6,
+    "weight": 100
+  },
+  {
+    "barcode": "2796820001171",
+    "name": "Кальмар по шанхайски",
+    "calories": 129,
+    "proteins": 24,
+    "fats": 2,
+    "carbs": 0,
+    "weight": 100
+  },
+  {
+    "barcode": "2823645100014",
+    "name": "Печенье двойной шоколад",
+    "calories": 410,
+    "proteins": 6.5,
+    "fats": 14,
+    "carbs": 64,
+    "weight": 100
+  },
+  {
+    "barcode": "2823700600015",
+    "name": "Пирожок с яблоком",
+    "calories": 320,
+    "proteins": 6,
+    "fats": 5.3,
+    "carbs": 62,
+    "weight": 100
+  },
+  {
+    "barcode": "2823739200019",
+    "name": "Булочка",
+    "calories": 265,
+    "proteins": 7.5,
+    "fats": 3.1,
+    "carbs": 51.8,
+    "weight": 100
+  },
+  {
+    "barcode": "2823753300016",
+    "name": "Хлеб Зерновой Перек",
+    "calories": 330,
+    "proteins": 7.5,
+    "fats": 13.5,
+    "carbs": 45.5,
+    "weight": 100
+  },
+  {
+    "barcode": "2960200002458",
+    "name": "Гамбургер с индейкой",
+    "calories": 190,
+    "proteins": 13.5,
+    "fats": 4.8,
+    "carbs": 13.1,
+    "weight": 100
+  },
+  {
+    "barcode": "2999990086232",
+    "name": "Багет с кунжутом на закваске",
+    "calories": 280,
+    "proteins": 8.5,
+    "fats": 3.5,
+    "carbs": 55,
+    "weight": 100
+  },
+  {
+    "barcode": "2999999895194",
+    "name": "Пирожок ЛЕНТА FRESH Домашний с мясом",
+    "calories": 315,
+    "proteins": 10,
+    "fats": 15.5,
+    "carbs": 35.5,
+    "weight": 100
+  },
+  {
+    "barcode": "3020384003753",
+    "name": "Лукум Сбивной Ванильный",
+    "calories": 320,
+    "proteins": 0.4,
+    "fats": 0.3,
+    "carbs": 79,
+    "weight": 100
+  },
+  {
+    "barcode": "3022843003724",
+    "name": "Сардельки С Телятиной",
+    "calories": 221,
+    "proteins": 12.9,
+    "fats": 18.2,
+    "carbs": 1.5,
+    "weight": 100
+  },
+  {
+    "barcode": "3046920028363",
+    "name": "Excellence 85% Cacao Rich Dark",
+    "calories": 584,
+    "proteins": 12.5,
+    "fats": 46,
+    "carbs": 22,
+    "weight": 100
+  },
+  {
+    "barcode": "3068111450005",
+    "name": "Mon pain multi cereales",
+    "calories": 381,
+    "proteins": 13.60000038147,
+    "fats": 9,
+    "carbs": 58.400001525879,
+    "weight": 100
+  },
+  {
+    "barcode": "3076820002064",
+    "name": "Pitted Ripe Olives",
+    "calories": 134,
+    "proteins": 0.5,
+    "fats": 14,
+    "carbs": 0,
+    "weight": 100
+  },
+  {
+    "barcode": "3083680002875",
+    "name": "csemegekukorica",
+    "calories": 79,
+    "proteins": 3,
+    "fats": 1.3,
+    "carbs": 20.5,
+    "weight": 100
+  },
+  {
+    "barcode": "3083680015394",
+    "name": "Maïs / Sweet Corn",
+    "calories": 72,
+    "proteins": 2.7,
+    "fats": 1.4,
+    "carbs": 11,
+    "weight": 100
+  },
+  {
+    "barcode": "3083680538404",
+    "name": "MAZARE MICA",
+    "calories": 74,
+    "proteins": 5.5,
+    "fats": 0.7,
+    "carbs": 7.4,
+    "weight": 100
+  },
+  {
+    "barcode": "3083681050158",
+    "name": "Poêlée campagnarde Minute®",
+    "calories": 69,
+    "proteins": 1.3,
+    "fats": 4.3,
+    "carbs": 4.6,
+    "weight": 100
+  },
+  {
+    "barcode": "3083681083361",
+    "name": "Кукуруза молодая",
+    "calories": 73,
+    "proteins": 2.7,
+    "fats": 1.4,
+    "carbs": 11,
+    "weight": 100
+  },
+  {
+    "barcode": "3123936132007",
+    "name": "Emmental râpé",
+    "calories": 369,
+    "proteins": 27,
+    "fats": 29,
+    "carbs": 0.5,
+    "weight": 100
+  },
+  {
+    "barcode": "3173283219760",
+    "name": "Choco nuts",
+    "calories": 570,
+    "proteins": 9.7,
+    "fats": 39,
+    "carbs": 43,
+    "weight": 100
+  },
+  {
+    "barcode": "3173283231472",
+    "name": "Tablette chocolat et amande",
+    "calories": 566,
+    "proteins": 11.8,
+    "fats": 38,
+    "carbs": 42,
+    "weight": 100
+  },
+  {
+    "barcode": "3245390130730",
+    "name": "Pizza 3 Fromages",
+    "calories": 233,
+    "proteins": 13,
+    "fats": 7.7,
+    "carbs": 27,
+    "weight": 100
+  },
+  {
+    "barcode": "3250392342814",
+    "name": "LOOK TROPICAL ZERO / LIGHT , 2 l (litre) 2L, PET",
+    "calories": 6,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 1,
+    "weight": 100
+  },
+  {
+    "barcode": "3256221111774",
+    "name": "Pâtes Spaghetti qualité supérieure, paquet cello de 500g",
+    "calories": 354,
+    "proteins": 12,
+    "fats": 1.2,
+    "carbs": 72,
+    "weight": 100
+  },
+  {
+    "barcode": "3256221659290",
+    "name": "Croûtons ronds frits pour soupe saveur fromage 2x90g - 180g",
+    "calories": 528,
+    "proteins": 7.8,
+    "fats": 30,
+    "carbs": 55,
+    "weight": 100
+  },
+  {
+    "barcode": "3256225042067",
+    "name": "Haricots blancs préparés - Boîte 250g",
+    "calories": 87,
+    "proteins": 6.6,
+    "fats": 0.5,
+    "carbs": 11,
+    "weight": 100
+  },
+  {
+    "barcode": "3270160855551",
+    "name": "Tartelettes au citron",
+    "calories": 427,
+    "proteins": 4.8,
+    "fats": 13,
+    "carbs": 73,
+    "weight": 100
+  },
+  {
+    "barcode": "3302740058660",
+    "name": "Blanc de poulet 100% filet",
+    "calories": 117,
+    "proteins": 21,
+    "fats": 1.6,
+    "carbs": 0.5,
+    "weight": 100
+  },
+  {
+    "barcode": "3614674002009",
+    "name": "Вафли Лос-Марселино",
+    "calories": 300,
+    "proteins": 2,
+    "fats": 6.5,
+    "carbs": 60,
+    "weight": 100
+  },
+  {
+    "barcode": "3700867000065",
+    "name": "Palmiers",
+    "calories": 546,
+    "proteins": 5.8,
+    "fats": 30,
+    "carbs": 61.8,
+    "weight": 100
+  },
+  {
+    "barcode": "3760004341819",
+    "name": "Fine Cognac VSOP",
+    "calories": 660,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 0,
+    "weight": 100
+  },
+  {
+    "barcode": "3800014281085",
+    "name": "грено сок синя слива ябълка 1085",
+    "calories": 53,
+    "proteins": 0.4,
+    "fats": 0,
+    "carbs": 12.4,
+    "weight": 100
+  },
+  {
+    "barcode": "3800020493915",
+    "name": "KitKat chunky white",
+    "calories": 521,
+    "proteins": 6.2,
+    "fats": 27,
+    "carbs": 63,
+    "weight": 100
+  },
+  {
+    "barcode": "3800047792886",
+    "name": "орехите сушеница слайс 2886",
+    "calories": 355,
+    "proteins": 28,
+    "fats": 26,
+    "carbs": 1.2,
+    "weight": 100
+  },
+  {
+    "barcode": "3800093511660",
+    "name": "врёшь плитка за хот-дог teams",
+    "calories": 352,
+    "proteins": 11.9,
+    "fats": 11.7,
+    "carbs": 46,
+    "weight": 100
+  },
+  {
+    "barcode": "3800093560361",
+    "name": "Лепешка для сенгвича",
+    "calories": 267,
+    "proteins": 9.7,
+    "fats": 2.4,
+    "carbs": 50,
+    "weight": 100
+  },
+  {
+    "barcode": "3800110301830",
+    "name": "сирине краве нискомаслено домлян",
+    "calories": 201,
+    "proteins": 18,
+    "fats": 14,
+    "carbs": 0.8,
+    "weight": 100
+  },
+  {
+    "barcode": "3800202640137",
+    "name": "КФМ филе елена резерва",
+    "calories": 193,
+    "proteins": 40,
+    "fats": 3,
+    "carbs": 1,
+    "weight": 100
+  },
+  {
+    "barcode": "3800207831189",
+    "name": "хляб типов с квас Айтос",
+    "calories": 243,
+    "proteins": 9,
+    "fats": 0.2,
+    "carbs": 51,
+    "weight": 100
+  },
+  {
+    "barcode": "3800212494942",
+    "name": "Хомогенизирана сметана за готвене",
+    "calories": 209,
+    "proteins": 3,
+    "fats": 20,
+    "carbs": 4.3,
+    "weight": 100
+  },
+  {
+    "barcode": "3800228506233",
+    "name": "крум мушев луканка слайс 90 г 6233",
+    "calories": 395,
+    "proteins": 23.3,
+    "fats": 32.5,
+    "carbs": 2.2,
+    "weight": 100
+  },
+  {
+    "barcode": "3800233091922",
+    "name": "Протеин Чипсы с бекон",
+    "calories": 436,
+    "proteins": 38,
+    "fats": 14,
+    "carbs": 38,
+    "weight": 100
+  },
+  {
+    "barcode": "3800779048527",
+    "name": "Кренвирши Бони XXL",
+    "calories": 212,
+    "proteins": 12,
+    "fats": 18.3,
+    "carbs": 1,
+    "weight": 100
+  },
+  {
+    "barcode": "4000415007706",
+    "name": "Schogetten Ciocolată cu lapte cu bucățele de biscuiți cu ovăz",
+    "calories": 556,
+    "proteins": 5.5,
+    "fats": 34,
+    "carbs": 56,
+    "weight": 100
+  },
+  {
+    "barcode": "4000415028701",
+    "name": "Chocolat trilogia strawberry",
+    "calories": 552,
+    "proteins": 5.4,
+    "fats": 33,
+    "carbs": 58,
+    "weight": 100
+  },
+  {
+    "barcode": "4000415039707",
+    "name": "Schogetten Black & White",
+    "calories": 555,
+    "proteins": 5.4,
+    "fats": 34,
+    "carbs": 56,
+    "weight": 100
+  },
+  {
+    "barcode": "4000415097707",
+    "name": "Biała czekolada",
+    "calories": 539,
+    "proteins": 4.9,
+    "fats": 31,
+    "carbs": 60,
+    "weight": 100
+  },
+  {
+    "barcode": "4000415143800",
+    "name": "Valge šokolaad krõbedate sarapuupähklitega",
+    "calories": 541,
+    "proteins": 6.3,
+    "fats": 32,
+    "carbs": 56,
+    "weight": 100
+  },
+  {
+    "barcode": "4000417025005",
+    "name": "Ritter Sport Marzapane chocolate",
+    "calories": 496,
+    "proteins": 6.45161290322581,
+    "fats": 25.8064516129032,
+    "carbs": 61.2903225806452,
+    "weight": 100
+  },
+  {
+    "barcode": "4000417236005",
+    "name": "Ritter Sport Brombeer Joghurt",
+    "calories": 566,
+    "proteins": 5.3,
+    "fats": 37,
+    "carbs": 53,
+    "weight": 100
+  },
+  {
+    "barcode": "4000417260000",
+    "name": "Chocolat noir extra fin",
+    "calories": 603,
+    "proteins": 8.7,
+    "fats": 49,
+    "carbs": 25,
+    "weight": 100
+  },
+  {
+    "barcode": "4000417702005",
+    "name": "DARK WHOLE HAZELNUTS",
+    "calories": 577,
+    "proteins": 8.4,
+    "fats": 41,
+    "carbs": 39,
+    "weight": 100
+  },
+  {
+    "barcode": "4000540003154",
+    "name": "Knusper Nuss & Schoko Hafer-Müsli",
+    "calories": 479,
+    "proteins": 10,
+    "fats": 21,
+    "carbs": 59,
+    "weight": 100
+  },
+  {
+    "barcode": "4000607854606",
+    "name": "Kruger Czekolada Shogetten-kids",
+    "calories": 550,
+    "proteins": 5.2,
+    "fats": 34,
+    "carbs": 55,
+    "weight": 100
+  },
+  {
+    "barcode": "4000856003404",
+    "name": "Warsteiner, La Boite",
+    "calories": 43,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 3.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4001163109223",
+    "name": "Spód do pizzy",
+    "calories": 267,
+    "proteins": 6.6,
+    "fats": 5.4,
+    "carbs": 45,
+    "weight": 100
+  },
+  {
+    "barcode": "4001724819806",
+    "name": "Ristorante Pizza Mozzarella",
+    "calories": 256,
+    "proteins": 9.8,
+    "fats": 13,
+    "carbs": 25,
+    "weight": 100
+  },
+  {
+    "barcode": "4002575563887",
+    "name": "Marzipan Kartoffeln",
+    "calories": 427,
+    "proteins": 6.2,
+    "fats": 14,
+    "carbs": 68,
+    "weight": 100
+  },
+  {
+    "barcode": "4002861135705",
+    "name": "Gewalzte Bandnudeln",
+    "calories": 366,
+    "proteins": 15.1,
+    "fats": 3.3,
+    "carbs": 67.6,
+    "weight": 100
+  },
+  {
+    "barcode": "4002971228601",
+    "name": "Grand Dessert Double Nut",
+    "calories": 123,
+    "proteins": 2.7,
+    "fats": 4.9,
+    "carbs": 17,
+    "weight": 100
+  },
+  {
+    "barcode": "4002971234602",
+    "name": "Grand dessert double choc",
+    "calories": 125,
+    "proteins": 2.8,
+    "fats": 4.6,
+    "carbs": 18,
+    "weight": 100
+  },
+  {
+    "barcode": "4008100178601",
+    "name": "Jalapeño Rings",
+    "calories": 18,
+    "proteins": 0.5,
+    "fats": 0.5,
+    "carbs": 1.4,
+    "weight": 100
+  },
+  {
+    "barcode": "40084701",
+    "name": "Kinderriegel",
+    "calories": 568,
+    "proteins": 8.7,
+    "fats": 35,
+    "carbs": 53.5,
+    "weight": 100
+  },
+  {
+    "barcode": "40084725",
+    "name": "Milchschnitte Einzelpackung",
+    "calories": 421,
+    "proteins": 7.85714285714286,
+    "fats": 27.8571428571429,
+    "carbs": 33.9285714285714,
+    "weight": 100
+  },
+  {
+    "barcode": "4009097020089",
+    "name": "Baguette",
+    "calories": 249,
+    "proteins": 8.7,
+    "fats": 1,
+    "carbs": 50,
+    "weight": 100
+  },
+  {
+    "barcode": "4011100091108",
+    "name": "Mars",
+    "calories": 454,
+    "proteins": 0,
+    "fats": 17.4,
+    "carbs": 0,
+    "weight": 100
+  },
+  {
+    "barcode": "4011100091993",
+    "name": "Milky Way",
+    "calories": 450,
+    "proteins": 0,
+    "fats": 16.5384615384615,
+    "carbs": 65.3846153846154,
+    "weight": 100
+  },
+  {
+    "barcode": "4011800049010",
+    "name": "Sauce Caramel",
+    "calories": 405,
+    "proteins": 3.6,
+    "fats": 8.1,
+    "carbs": 79.1,
+    "weight": 100
+  },
+  {
+    "barcode": "4011800104313",
+    "name": "Himbeermarmelade",
+    "calories": 231,
+    "proteins": 0.7,
+    "fats": 0.2,
+    "carbs": 54.2,
+    "weight": 100
+  },
+  {
+    "barcode": "40122373",
+    "name": "ITALIAN DRESSING",
+    "calories": 62,
+    "proteins": 0.2,
+    "fats": 5,
+    "carbs": 2.8,
+    "weight": 100
+  },
+  {
+    "barcode": "4014400400007",
+    "name": "Toffifee 15er",
+    "calories": 522,
+    "proteins": 6,
+    "fats": 29,
+    "carbs": 58.9,
+    "weight": 100
+  },
+  {
+    "barcode": "4014400901405",
+    "name": "Merci Milk Selection",
+    "calories": 579,
+    "proteins": 8.1,
+    "fats": 37.8,
+    "carbs": 50.1,
+    "weight": 100
+  },
+  {
+    "barcode": "4014400934564",
+    "name": "мамба фрумеладки кислые звёздочки",
+    "calories": 339,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 82,
+    "weight": 100
+  },
+  {
+    "barcode": "40144115",
+    "name": "вертерс мягкий ирис",
+    "calories": 464,
+    "proteins": 4.2,
+    "fats": 20.7,
+    "carbs": 65.6,
+    "weight": 100
+  },
+  {
+    "barcode": "4030011330458",
+    "name": "Плов со свининой",
+    "calories": 148,
+    "proteins": 6.7,
+    "fats": 7.6,
+    "carbs": 13.3,
+    "weight": 100
+  },
+  {
+    "barcode": "4030683014021",
+    "name": "Чайный сбор ЦИТРУСОВЫЙ БАЗИЛИК",
+    "calories": 14,
+    "proteins": 0.683333333333333,
+    "fats": 0.124666666666667,
+    "carbs": 1.96333333333333,
+    "weight": 100
+  },
+  {
+    "barcode": "4030957761620",
+    "name": "Сухарики жигулевские",
+    "calories": 456,
+    "proteins": 10,
+    "fats": 18,
+    "carbs": 60,
+    "weight": 100
+  },
+  {
+    "barcode": "4030957761644",
+    "name": "Сухарики Жигулевские",
+    "calories": 456,
+    "proteins": 10,
+    "fats": 18,
+    "carbs": 60,
+    "weight": 100
+  },
+  {
+    "barcode": "4030957761651",
+    "name": "Schwarzbrotcroutons",
+    "calories": 456,
+    "proteins": 10,
+    "fats": 18,
+    "carbs": 60,
+    "weight": 100
+  },
+  {
+    "barcode": "4030957871015",
+    "name": "Hematogenas",
+    "calories": 410,
+    "proteins": 7.3,
+    "fats": 7.6,
+    "carbs": 78,
+    "weight": 100
+  },
+  {
+    "barcode": "4033443792337",
+    "name": "Бумука",
+    "calories": 459,
+    "proteins": 7.3,
+    "fats": 14.1,
+    "carbs": 66,
+    "weight": 100
+  },
+  {
+    "barcode": "42094074",
+    "name": "eine kleinigkeit für dich",
+    "calories": 555,
+    "proteins": 6.8,
+    "fats": 36,
+    "carbs": 51,
+    "weight": 100
+  },
+  {
+    "barcode": "42208525",
+    "name": "Ritter Sport Haselnuss",
+    "calories": 558,
+    "proteins": 7.7,
+    "fats": 35,
+    "carbs": 51,
+    "weight": 100
+  },
+  {
+    "barcode": "42208549",
+    "name": "Ritter Sport Marzipan",
+    "calories": 488,
+    "proteins": 6.9,
+    "fats": 28,
+    "carbs": 52,
+    "weight": 100
+  },
+  {
+    "barcode": "42208570",
+    "name": "Ritter Sport Knusperflakes",
+    "calories": 520,
+    "proteins": 6.6,
+    "fats": 28,
+    "carbs": 59,
+    "weight": 100
+  },
+  {
+    "barcode": "42208587",
+    "name": "Knusperkeks",
+    "calories": 524,
+    "proteins": 6.4,
+    "fats": 30,
+    "carbs": 57,
+    "weight": 100
+  },
+  {
+    "barcode": "4250235188264",
+    "name": "Boyens-BBQ-Grillspray für Endverbraucher",
+    "calories": 900,
+    "proteins": 0,
+    "fats": 99.9,
+    "carbs": 0.1,
+    "weight": 100
+  },
+  {
+    "barcode": "4260183211976",
+    "name": "Coconut milk for drinking",
+    "calories": 25,
+    "proteins": 0,
+    "fats": 2.1,
+    "carbs": 1.1,
+    "weight": 100
+  },
+  {
+    "barcode": "4311501766699",
+    "name": "Triple Chocolate cookies",
+    "calories": 496,
+    "proteins": 6,
+    "fats": 26,
+    "carbs": 58,
+    "weight": 100
+  },
+  {
+    "barcode": "4316734091693",
+    "name": "Austernsauce",
+    "calories": 113,
+    "proteins": 1.2,
+    "fats": 0.5,
+    "carbs": 27,
+    "weight": 100
+  },
+  {
+    "barcode": "4337182137443",
+    "name": "Царевичен тортила чипс - лют",
+    "calories": 522,
+    "proteins": 5.7,
+    "fats": 33,
+    "carbs": 49,
+    "weight": 100
+  },
+  {
+    "barcode": "46000000428628",
+    "name": "Greek Mac",
+    "calories": 209,
+    "proteins": 10.15625,
+    "fats": 10.15625,
+    "carbs": 18.75,
+    "weight": 100
+  },
+  {
+    "barcode": "4600068009883",
+    "name": "Ochakovo Kwas",
+    "calories": 24,
+    "proteins": 0.2,
+    "fats": 0,
+    "carbs": 5.8,
+    "weight": 100
+  },
+  {
+    "barcode": "4600068038029",
+    "name": "Белый квас Смородина-Мята",
+    "calories": 45,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 9.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600068063991",
+    "name": "Квас",
+    "calories": 20,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 4.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600080279691",
+    "name": "Chocolats russes",
+    "calories": 469,
+    "proteins": 4.5,
+    "fats": 19,
+    "carbs": 69,
+    "weight": 100
+  },
+  {
+    "barcode": "4600080294267",
+    "name": "Красный октябрь",
+    "calories": 560,
+    "proteins": 8.5,
+    "fats": 36,
+    "carbs": 50,
+    "weight": 100
+  },
+  {
+    "barcode": "4600080299187",
+    "name": "Alyonka",
+    "calories": 510,
+    "proteins": 8,
+    "fats": 29,
+    "carbs": 55,
+    "weight": 100
+  },
+  {
+    "barcode": "4600080310400",
+    "name": "Грильяж смотка в пачках",
+    "calories": 520,
+    "proteins": 5.5,
+    "fats": 26,
+    "carbs": 64,
+    "weight": 100
+  },
+  {
+    "barcode": "4600080322106",
+    "name": "вафли Коровка вкус &quot;Топлёное молоко&quot;",
+    "calories": 532,
+    "proteins": 7.5,
+    "fats": 30,
+    "carbs": 58,
+    "weight": 100
+  },
+  {
+    "barcode": "4600080322137",
+    "name": "Waffelschnitte Korovka Schoko",
+    "calories": 535,
+    "proteins": 7,
+    "fats": 30,
+    "carbs": 58,
+    "weight": 100
+  },
+  {
+    "barcode": "4600080442712",
+    "name": "Bombón de coco felicita",
+    "calories": 540,
+    "proteins": 7,
+    "fats": 32,
+    "carbs": 54,
+    "weight": 100
+  },
+  {
+    "barcode": "4600080448202",
+    "name": "Bombón crema de chocolate",
+    "calories": 530,
+    "proteins": 5.5,
+    "fats": 31,
+    "carbs": 56,
+    "weight": 100
+  },
+  {
+    "barcode": "4600080562625",
+    "name": "Golosinas con puré de frutas",
+    "calories": 310,
+    "proteins": 0.1,
+    "fats": 0.1,
+    "carbs": 75,
+    "weight": 100
+  },
+  {
+    "barcode": "4600080563004",
+    "name": "Smoothie con Estevia",
+    "calories": 210,
+    "proteins": 1,
+    "fats": 3,
+    "carbs": 45,
+    "weight": 100
+  },
+  {
+    "barcode": "4600080563011",
+    "name": "Neo Botanica(Regaliz)",
+    "calories": 210,
+    "proteins": 0.1,
+    "fats": 3,
+    "carbs": 46,
+    "weight": 100
+  },
+  {
+    "barcode": "4600080563028",
+    "name": "Mix fresa naranja",
+    "calories": 210,
+    "proteins": 0.1,
+    "fats": 3,
+    "carbs": 45,
+    "weight": 100
+  },
+  {
+    "barcode": "4600080563035",
+    "name": "Mix smoothie",
+    "calories": 210,
+    "proteins": 0.10000000149012,
+    "fats": 3,
+    "carbs": 0.10000000149012,
+    "weight": 100
+  },
+  {
+    "barcode": "4600080564247",
+    "name": "Bombón con coco",
+    "calories": 540,
+    "proteins": 7,
+    "fats": 32,
+    "carbs": 54,
+    "weight": 100
+  },
+  {
+    "barcode": "4600080564308",
+    "name": "Bombón sabor crema de chocolate",
+    "calories": 530,
+    "proteins": 5.5,
+    "fats": 31,
+    "carbs": 56,
+    "weight": 100
+  },
+  {
+    "barcode": "4600286101970",
+    "name": "Лимонад",
+    "calories": 35,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 9,
+    "weight": 100
+  },
+  {
+    "barcode": "4600294028443",
+    "name": "Cafe Jazz Коктейль орехи и сухофрукты",
+    "calories": 490,
+    "proteins": 12,
+    "fats": 29,
+    "carbs": 44,
+    "weight": 100
+  },
+  {
+    "barcode": "4600300071067",
+    "name": "Шоколад Мишка косолапый с орехами и вафлями",
+    "calories": 530,
+    "proteins": 7,
+    "fats": 31,
+    "carbs": 54,
+    "weight": 100
+  },
+  {
+    "barcode": "4600300071180",
+    "name": "80% Schokolade",
+    "calories": 550,
+    "proteins": 12,
+    "fats": 39,
+    "carbs": 29,
+    "weight": 100
+  },
+  {
+    "barcode": "4600300075409",
+    "name": "МОЛОЧНЫЙ ШОКОЛАД АЛЕНКА",
+    "calories": 547,
+    "proteins": 8,
+    "fats": 33,
+    "carbs": 54,
+    "weight": 100
+  },
+  {
+    "barcode": "4600300077793",
+    "name": "Chocolate Bar &quot;Alenka&quot; BA 20g",
+    "calories": 550,
+    "proteins": 7,
+    "fats": 34,
+    "carbs": 53,
+    "weight": 100
+  },
+  {
+    "barcode": "4600300079865",
+    "name": "Russian Chocolate &quot;Bird's Milk&quot; Factory &quot;Rotfront&quot; 200G",
+    "calories": 460,
+    "proteins": 2.5,
+    "fats": 25,
+    "carbs": 55,
+    "weight": 100
+  },
+  {
+    "barcode": "4600300080014",
+    "name": "Оленка",
+    "calories": 482,
+    "proteins": 0,
+    "fats": 24,
+    "carbs": 60,
+    "weight": 100
+  },
+  {
+    "barcode": "4600300080335",
+    "name": "Конфеты Птичье молоко",
+    "calories": 450,
+    "proteins": 2.5,
+    "fats": 24,
+    "carbs": 56,
+    "weight": 100
+  },
+  {
+    "barcode": "4600300086863",
+    "name": "Конфеты Мишка косолапый",
+    "calories": 540,
+    "proteins": 6,
+    "fats": 30,
+    "carbs": 59,
+    "weight": 100
+  },
+  {
+    "barcode": "4600300091676",
+    "name": "Bon Roll",
+    "calories": 550,
+    "proteins": 8,
+    "fats": 34,
+    "carbs": 51,
+    "weight": 100
+  },
+  {
+    "barcode": "4600300091690",
+    "name": "BONROLL con Almendra Entera",
+    "calories": 540,
+    "proteins": 8,
+    "fats": 32,
+    "carbs": 53,
+    "weight": 100
+  },
+  {
+    "barcode": "4600300094189",
+    "name": "BonRoll",
+    "calories": 550,
+    "proteins": 8,
+    "fats": 34,
+    "carbs": 51,
+    "weight": 100
+  },
+  {
+    "barcode": "4600300094202",
+    "name": "Bonroll bombones con almendra entera 42gr",
+    "calories": 550,
+    "proteins": 8.5,
+    "fats": 33,
+    "carbs": 52,
+    "weight": 100
+  },
+  {
+    "barcode": "4600300094226",
+    "name": "Bombones",
+    "calories": 550,
+    "proteins": 8.5,
+    "fats": 33,
+    "carbs": 52,
+    "weight": 100
+  },
+  {
+    "barcode": "4600300094240",
+    "name": "Bombones con avellana entera",
+    "calories": 550,
+    "proteins": 8,
+    "fats": 34,
+    "carbs": 51,
+    "weight": 100
+  },
+  {
+    "barcode": "4600338003924",
+    "name": "Кашка фрутоняня овсяная с бананом",
+    "calories": 67,
+    "proteins": 2.7,
+    "fats": 2,
+    "carbs": 9.4,
+    "weight": 100
+  },
+  {
+    "barcode": "4600338006130",
+    "name": "ФН ПЮРЕ ЯБЛОКО",
+    "calories": 36,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 9,
+    "weight": 100
+  },
+  {
+    "barcode": "4600338006161",
+    "name": "Пюре яблочно-банановое",
+    "calories": 58,
+    "proteins": 1,
+    "fats": 0,
+    "carbs": 13.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600338006574",
+    "name": "ФН ПЮРЕ ЯБЛОКО БАНАН КЛУБНИКА",
+    "calories": 50,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 12.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600338009537",
+    "name": "Фруктовые кусочки (яблоко груша)",
+    "calories": 272,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 67.9,
+    "weight": 100
+  },
+  {
+    "barcode": "4600338009865",
+    "name": "кукурузные палочки яблоко клубника",
+    "calories": 345,
+    "proteins": 6,
+    "fats": 1,
+    "carbs": 78,
+    "weight": 100
+  },
+  {
+    "barcode": "4600390000145",
+    "name": "Cangrejo real ruso al natural",
+    "calories": 59,
+    "proteins": 12.6,
+    "fats": 0.8,
+    "carbs": 0.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600390000213",
+    "name": "Chatka",
+    "calories": 59,
+    "proteins": 12.6,
+    "fats": 0.8,
+    "carbs": 0.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600390000312",
+    "name": "Chatka",
+    "calories": 59,
+    "proteins": 12.6,
+    "fats": 0.8,
+    "carbs": 0.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600390000411",
+    "name": "Cangrejo Real ruso al natural",
+    "calories": 59,
+    "proteins": 12.6,
+    "fats": 0.8,
+    "carbs": 0.4,
+    "weight": 100
+  },
+  {
+    "barcode": "4600390012681",
+    "name": "Carne blanca de cangrejo al natural",
+    "calories": 103,
+    "proteins": 25.9,
+    "fats": 1.08,
+    "carbs": 1.2,
+    "weight": 100
+  },
+  {
+    "barcode": "4600416011889",
+    "name": "Фру-Фру — жевательный мармелад Маша и Медведь",
+    "calories": 329,
+    "proteins": 4.1,
+    "fats": 0.3,
+    "carbs": 77.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600416025800",
+    "name": "Зефир",
+    "calories": 340,
+    "proteins": 5,
+    "fats": 0,
+    "carbs": 80,
+    "weight": 100
+  },
+  {
+    "barcode": "4600452021439",
+    "name": "Молочный Шоколад Полосатый",
+    "calories": 560,
+    "proteins": 7,
+    "fats": 36,
+    "carbs": 53,
+    "weight": 100
+  },
+  {
+    "barcode": "4600452022665",
+    "name": "Konfekt Fruktovichi / KURAGA, MANDEL",
+    "calories": 360,
+    "proteins": 4.5,
+    "fats": 17,
+    "carbs": 48,
+    "weight": 100
+  },
+  {
+    "barcode": "4600452023068",
+    "name": "Dark Chocolate 69% With Mango Crisp",
+    "calories": 450,
+    "proteins": 8,
+    "fats": 37,
+    "carbs": 17,
+    "weight": 100
+  },
+  {
+    "barcode": "4600492109012",
+    "name": "Пастила Фейхоа",
+    "calories": 310,
+    "proteins": 0.6,
+    "fats": 0,
+    "carbs": 76.4,
+    "weight": 100
+  },
+  {
+    "barcode": "4600492112227",
+    "name": "Pastila &quot;Vanilla-Flavored&quot; &quot;SHARMEL&quot;",
+    "calories": 310,
+    "proteins": 0.6,
+    "fats": 0,
+    "carbs": 76.4,
+    "weight": 100
+  },
+  {
+    "barcode": "4600492208029",
+    "name": "Charmel",
+    "calories": 368,
+    "proteins": 2.5,
+    "fats": 10,
+    "carbs": 65.6,
+    "weight": 100
+  },
+  {
+    "barcode": "4600492211012",
+    "name": "Зефир",
+    "calories": 327,
+    "proteins": 0.941176470588235,
+    "fats": 0,
+    "carbs": 79.2941176470588,
+    "weight": 100
+  },
+  {
+    "barcode": "4600492212101",
+    "name": "зефир ваниль",
+    "calories": 321,
+    "proteins": 1,
+    "fats": 0,
+    "carbs": 78.6,
+    "weight": 100
+  },
+  {
+    "barcode": "4600492213320",
+    "name": "Zefir In Chocolate",
+    "calories": 368,
+    "proteins": 2.4,
+    "fats": 10,
+    "carbs": 65.6,
+    "weight": 100
+  },
+  {
+    "barcode": "4600492217328",
+    "name": "Guimauves",
+    "calories": 368,
+    "proteins": 2.4,
+    "fats": 10,
+    "carbs": 65.6,
+    "weight": 100
+  },
+  {
+    "barcode": "4600492220144",
+    "name": "Зефир шармель",
+    "calories": 368,
+    "proteins": 0.6,
+    "fats": 10,
+    "carbs": 65.6,
+    "weight": 100
+  },
+  {
+    "barcode": "4600492223015",
+    "name": "Зефир шармель малина",
+    "calories": 368,
+    "proteins": 2.4,
+    "fats": 10,
+    "carbs": 65.6,
+    "weight": 100
+  },
+  {
+    "barcode": "4600492227013",
+    "name": "Zefir",
+    "calories": 376,
+    "proteins": 3.2,
+    "fats": 11.2,
+    "carbs": 64.4,
+    "weight": 100
+  },
+  {
+    "barcode": "4600492321209",
+    "name": "Mapmanaa",
+    "calories": 325,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 77.2,
+    "weight": 100
+  },
+  {
+    "barcode": "4600492340033",
+    "name": "Marmelade",
+    "calories": 328,
+    "proteins": 0.1,
+    "fats": 0,
+    "carbs": 80.4,
+    "weight": 100
+  },
+  {
+    "barcode": "4600493559007",
+    "name": "Плавленый сыр «Шоколадный»",
+    "calories": 306,
+    "proteins": 9.2,
+    "fats": 18,
+    "carbs": 26.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600493964887",
+    "name": "Cream Cheese Сливочный",
+    "calories": 280,
+    "proteins": 7.1,
+    "fats": 26.6,
+    "carbs": 3,
+    "weight": 100
+  },
+  {
+    "barcode": "4600494223013",
+    "name": "Adrenaline rush",
+    "calories": 54,
+    "proteins": 0.5,
+    "fats": 0,
+    "carbs": 12.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600494519420",
+    "name": "Aqua avtive",
+    "calories": 18,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 4.4,
+    "weight": 100
+  },
+  {
+    "barcode": "4600494600500",
+    "name": "Чёрный чай Lipton  Лимон 1л",
+    "calories": 19,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 4.6,
+    "weight": 100
+  },
+  {
+    "barcode": "4600494661334",
+    "name": "сок J7 Цитрус",
+    "calories": 40,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 9.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600494666612",
+    "name": "Adrenaline Zero sugar",
+    "calories": 3,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 0.13,
+    "weight": 100
+  },
+  {
+    "barcode": "4600494681646",
+    "name": "Энергетик вкус дыня лайм мята",
+    "calories": 18,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 4,
+    "weight": 100
+  },
+  {
+    "barcode": "4600494685521",
+    "name": "Кола 0,5 эвервес смотка",
+    "calories": 44,
+    "proteins": 11.1,
+    "fats": 0,
+    "carbs": 0,
+    "weight": 100
+  },
+  {
+    "barcode": "4600494692161",
+    "name": "Drive apple blast",
+    "calories": 51,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 12.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600494694813",
+    "name": "Fresh Taste Сок апельсиновый с мякотью",
+    "calories": 35,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 9,
+    "weight": 100
+  },
+  {
+    "barcode": "4600495522221",
+    "name": "Konti Bonjour",
+    "calories": 448,
+    "proteins": 3,
+    "fats": 20,
+    "carbs": 64,
+    "weight": 100
+  },
+  {
+    "barcode": "4600495522320",
+    "name": "Десерт &quot;Bonjour Souffle&quot; вкус клубники со сливками",
+    "calories": 430,
+    "proteins": 3,
+    "fats": 16,
+    "carbs": 68,
+    "weight": 100
+  },
+  {
+    "barcode": "4600508712762",
+    "name": "Naslazhdenie",
+    "calories": 510,
+    "proteins": 9,
+    "fats": 29,
+    "carbs": 51,
+    "weight": 100
+  },
+  {
+    "barcode": "4600508719105",
+    "name": "Ambrosia Felicità",
+    "calories": 540,
+    "proteins": 9,
+    "fats": 31,
+    "carbs": 55,
+    "weight": 100
+  },
+  {
+    "barcode": "4600508720330",
+    "name": "Felicita",
+    "calories": 450,
+    "proteins": 4.5,
+    "fats": 21,
+    "carbs": 59,
+    "weight": 100
+  },
+  {
+    "barcode": "4600508720408",
+    "name": "FELICITA",
+    "calories": 540,
+    "proteins": 4.5,
+    "fats": 32,
+    "carbs": 59,
+    "weight": 100
+  },
+  {
+    "barcode": "4600508720866",
+    "name": "Mini bars",
+    "calories": 450,
+    "proteins": 4.5,
+    "fats": 21,
+    "carbs": 59,
+    "weight": 100
+  },
+  {
+    "barcode": "4600508721276",
+    "name": "Golosinas con fresa",
+    "calories": 300,
+    "proteins": 1.7,
+    "fats": 0.3,
+    "carbs": 73,
+    "weight": 100
+  },
+  {
+    "barcode": "4600508721283",
+    "name": "Golosinas con Manzana",
+    "calories": 300,
+    "proteins": 0.1,
+    "fats": 0.3,
+    "carbs": 73,
+    "weight": 100
+  },
+  {
+    "barcode": "4600508721788",
+    "name": "Caramelos gelatina con té verde y lima",
+    "calories": 310,
+    "proteins": 1,
+    "fats": 0.3,
+    "carbs": 75,
+    "weight": 100
+  },
+  {
+    "barcode": "4600508721795",
+    "name": "Gelatina con jengibre y limón",
+    "calories": 310,
+    "proteins": 1,
+    "fats": 0.3,
+    "carbs": 75,
+    "weight": 100
+  },
+  {
+    "barcode": "4600508721801",
+    "name": "Gelatina con frutas del bosque",
+    "calories": 310,
+    "proteins": 1,
+    "fats": 0.3,
+    "carbs": 75,
+    "weight": 100
+  },
+  {
+    "barcode": "4600508724345",
+    "name": "Felicitá chocolatinas",
+    "calories": 450,
+    "proteins": 4.5,
+    "fats": 21,
+    "carbs": 59,
+    "weight": 100
+  },
+  {
+    "barcode": "4600528345629",
+    "name": "Mayonnaise classique provençale",
+    "calories": 615,
+    "proteins": 0.4,
+    "fats": 67,
+    "carbs": 2.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600528347173",
+    "name": "Mayonnaise Provencal",
+    "calories": 383,
+    "proteins": 0.3,
+    "fats": 40,
+    "carbs": 5.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600528347289",
+    "name": "majonēze Provansas Rjaba",
+    "calories": 615,
+    "proteins": 0.4,
+    "fats": 67,
+    "carbs": 2.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600528347296",
+    "name": "Rioba",
+    "calories": 615,
+    "proteins": 0.4,
+    "fats": 67,
+    "carbs": 25,
+    "weight": 100
+  },
+  {
+    "barcode": "4600528347821",
+    "name": "Mayonnaise",
+    "calories": 615,
+    "proteins": 0.4,
+    "fats": 67,
+    "carbs": 2.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600528347838",
+    "name": "Ряба 67% оливковый 390г",
+    "calories": 615,
+    "proteins": 0.4,
+    "fats": 67,
+    "carbs": 2.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600528348262",
+    "name": "Graines de tournesol avec coquille, grillées",
+    "calories": 651,
+    "proteins": 21,
+    "fats": 61,
+    "carbs": 4.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600528353648",
+    "name": "Семечки",
+    "calories": 650,
+    "proteins": 21,
+    "fats": 61,
+    "carbs": 4.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600528354690",
+    "name": "Ketchup",
+    "calories": 96,
+    "proteins": 1,
+    "fats": 0.1,
+    "carbs": 23,
+    "weight": 100
+  },
+  {
+    "barcode": "4600528355512",
+    "name": "Sun Flower seeds",
+    "calories": 651,
+    "proteins": 21,
+    "fats": 61,
+    "carbs": 4.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600528355529",
+    "name": "Семечки",
+    "calories": 651,
+    "proteins": 21,
+    "fats": 61,
+    "carbs": 5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600528357981",
+    "name": "Бургер-соус для бутербродов и закусок",
+    "calories": 330,
+    "proteins": 1,
+    "fats": 30,
+    "carbs": 14,
+    "weight": 100
+  },
+  {
+    "barcode": "4600528359114",
+    "name": "Cezar Sauce",
+    "calories": 400,
+    "proteins": 0.75,
+    "fats": 42,
+    "carbs": 6,
+    "weight": 100
+  },
+  {
+    "barcode": "4600528362893",
+    "name": "Астория шаурма",
+    "calories": 410,
+    "proteins": 1,
+    "fats": 42,
+    "carbs": 8,
+    "weight": 100
+  },
+  {
+    "barcode": "4600528365450",
+    "name": "Соус барбекю",
+    "calories": 120,
+    "proteins": 1,
+    "fats": 0,
+    "carbs": 29,
+    "weight": 100
+  },
+  {
+    "barcode": "4600528366068",
+    "name": "Соус Сметанный с грибами",
+    "calories": 400,
+    "proteins": 0.4,
+    "fats": 42,
+    "carbs": 6,
+    "weight": 100
+  },
+  {
+    "barcode": "4600528366396",
+    "name": "Соус Лёгкий",
+    "calories": 250,
+    "proteins": 0.2,
+    "fats": 25,
+    "carbs": 7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600545035039",
+    "name": "anakom",
+    "calories": 63,
+    "proteins": 1.3,
+    "fats": 3,
+    "carbs": 7.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600545624103",
+    "name": "Вермишель быстрого приготовления с куриным бульоном",
+    "calories": 410,
+    "proteins": 7.5,
+    "fats": 20,
+    "carbs": 49,
+    "weight": 100
+  },
+  {
+    "barcode": "4600548017155",
+    "name": "Primorskie",
+    "calories": 450,
+    "proteins": 3,
+    "fats": 24,
+    "carbs": 56,
+    "weight": 100
+  },
+  {
+    "barcode": "4600583944706",
+    "name": "Печенье солёная карамель",
+    "calories": 470,
+    "proteins": 5,
+    "fats": 22,
+    "carbs": 63,
+    "weight": 100
+  },
+  {
+    "barcode": "4600583944737",
+    "name": "Печенье &quot;карамель&quot; со вкусом Брауни в глазури",
+    "calories": 465,
+    "proteins": 4.7,
+    "fats": 22,
+    "carbs": 62,
+    "weight": 100
+  },
+  {
+    "barcode": "4600603023848",
+    "name": "Крекер «Конфи» Рыбки с луком",
+    "calories": 477,
+    "proteins": 8.1,
+    "fats": 26.3,
+    "carbs": 51,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605010976",
+    "name": "Биойогурт Активиа",
+    "calories": 78,
+    "proteins": 4.8,
+    "fats": 3.5,
+    "carbs": 6.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605012338",
+    "name": "Активиа Биойогурт Киви и мюсли",
+    "calories": 108,
+    "proteins": 3.9,
+    "fats": 3,
+    "carbs": 16.4,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605017333",
+    "name": "Даниссимо Творожный с изысканным шоколадом",
+    "calories": 152,
+    "proteins": 5.6,
+    "fats": 6.7,
+    "carbs": 17.4,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605017654",
+    "name": "Йогурт с вишней",
+    "calories": 101,
+    "proteins": 3.9,
+    "fats": 2.9,
+    "carbs": 14.8,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605019351",
+    "name": "Йогурт с шариками в шоколаде",
+    "calories": 123,
+    "proteins": 3.3,
+    "fats": 6.9,
+    "carbs": 11.9,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605021781",
+    "name": "Даниссимо Фантазия Хрустящие шарики с ягодным вкусом 105г",
+    "calories": 121,
+    "proteins": 3.1,
+    "fats": 6.9,
+    "carbs": 11.6,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605021842",
+    "name": "Активиа Термостатная",
+    "calories": 65,
+    "proteins": 3.5,
+    "fats": 3.5,
+    "carbs": 4.8,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605022207",
+    "name": "Йогурт термостатный &quot;Данон&quot;",
+    "calories": 47,
+    "proteins": 3.6,
+    "fats": 1.5,
+    "carbs": 4.8,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605022399",
+    "name": "натуральный биойогурт, с черникой и 5 злаками",
+    "calories": 95,
+    "proteins": 4.1,
+    "fats": 2.9,
+    "carbs": 13,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605026533",
+    "name": "Milk (no sugar or lactose)",
+    "calories": 46,
+    "proteins": 3.5,
+    "fats": 1.5,
+    "carbs": 4.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605026595",
+    "name": "Йогурт питьевой",
+    "calories": 62,
+    "proteins": 3.3,
+    "fats": 1,
+    "carbs": 9.9,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605026601",
+    "name": "Биойогурт черника-злаки",
+    "calories": 63,
+    "proteins": 3.3,
+    "fats": 1,
+    "carbs": 10.1,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605026786",
+    "name": "Активиа",
+    "calories": 73,
+    "proteins": 0,
+    "fats": 2.1,
+    "carbs": 0,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605026878",
+    "name": "Молочный коктейль Растишка ванильное мороженое 210г",
+    "calories": 70,
+    "proteins": 3.3,
+    "fats": 2,
+    "carbs": 9.9,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605030271",
+    "name": "Творожное зерно в сливках",
+    "calories": 91,
+    "proteins": 9,
+    "fats": 5,
+    "carbs": 2.6,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605030356",
+    "name": "Молоко безлактозное 1.5",
+    "calories": 46,
+    "proteins": 3.3,
+    "fats": 1.5,
+    "carbs": 4.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605030721",
+    "name": "натуральный биойогурт",
+    "calories": 85,
+    "proteins": 3.2,
+    "fats": 2,
+    "carbs": 13.6,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605031094",
+    "name": "Йогурт даниссимо с шариками клубника молочный шоколад 105г",
+    "calories": 123,
+    "proteins": 3.3,
+    "fats": 6.9,
+    "carbs": 11.9,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605032251",
+    "name": "Сливки Простоквашино 200г пит.ульт.20%",
+    "calories": 206,
+    "proteins": 2.6,
+    "fats": 20,
+    "carbs": 4,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605032459",
+    "name": "Термостатный йогурт",
+    "calories": 69,
+    "proteins": 3.6,
+    "fats": 4,
+    "carbs": 4.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605032466",
+    "name": "4600605032466",
+    "calories": 93,
+    "proteins": 3.9,
+    "fats": 2.9,
+    "carbs": 12.8,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605032558",
+    "name": "Творожок вишня-банан",
+    "calories": 110,
+    "proteins": 6.8,
+    "fats": 3.6,
+    "carbs": 12.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605032732",
+    "name": "Биойогурт Актибио с пробиотиками",
+    "calories": 51,
+    "proteins": 3.5,
+    "fats": 1.8,
+    "carbs": 5.3,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605032763",
+    "name": "Aktibio jordbær",
+    "calories": 73,
+    "proteins": 2.9,
+    "fats": 1.5,
+    "carbs": 11.9,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605032770",
+    "name": "Актибио",
+    "calories": 74,
+    "proteins": 3,
+    "fats": 1.6,
+    "carbs": 11.9,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605032800",
+    "name": "Биойогурт со злаками",
+    "calories": 70,
+    "proteins": 3,
+    "fats": 1.6,
+    "carbs": 11,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605032831",
+    "name": "Биойогурт &quot;с яблоком и персиком&quot;",
+    "calories": 67,
+    "proteins": 3,
+    "fats": 1.5,
+    "carbs": 10.2,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605032862",
+    "name": "Биойогурт с пробиотиками Питахайа, клубника, яблоко",
+    "calories": 78,
+    "proteins": 3.8,
+    "fats": 2.9,
+    "carbs": 9.2,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605032879",
+    "name": "4600605032879",
+    "calories": 78,
+    "proteins": 3.8,
+    "fats": 2.9,
+    "carbs": 9.1,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605032893",
+    "name": "Биойогурт с пробиотиками - Клубника",
+    "calories": 101,
+    "proteins": 4.1,
+    "fats": 2.9,
+    "carbs": 14.6,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605032916",
+    "name": "Биойогурт Актибио",
+    "calories": 103,
+    "proteins": 4.2,
+    "fats": 3,
+    "carbs": 14.9,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605032954",
+    "name": "АктиБио с пробиотиками и злаками",
+    "calories": 98,
+    "proteins": 4.6,
+    "fats": 2.9,
+    "carbs": 13.4,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605033012",
+    "name": "Биойогурт Малина Гранат",
+    "calories": 74,
+    "proteins": 2.9,
+    "fats": 1.5,
+    "carbs": 12.1,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605033043",
+    "name": "АктиБио с пробиотиками и злаками",
+    "calories": 70,
+    "proteins": 3,
+    "fats": 1.6,
+    "carbs": 11,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605033098",
+    "name": "Биойогурт АктиБио",
+    "calories": 79,
+    "proteins": 4.8,
+    "fats": 3.5,
+    "carbs": 7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605033234",
+    "name": "Vanilla Plombir",
+    "calories": 40,
+    "proteins": 1.2,
+    "fats": 0.7,
+    "carbs": 7.3,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605033258",
+    "name": "миндаль планто",
+    "calories": 25,
+    "proteins": 0.4,
+    "fats": 1.2,
+    "carbs": 3,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605033494",
+    "name": "Actimuno",
+    "calories": 69,
+    "proteins": 2.7,
+    "fats": 1.5,
+    "carbs": 12.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605033906",
+    "name": "Йогурт густой греческий",
+    "calories": 64,
+    "proteins": 8.7,
+    "fats": 2,
+    "carbs": 2.8,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605034262",
+    "name": "4600605034262",
+    "calories": 129,
+    "proteins": 5.3,
+    "fats": 3.9,
+    "carbs": 17.9,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605034330",
+    "name": "Продукт творожный &quot;творожок&quot; с голубикой и бананом",
+    "calories": 112,
+    "proteins": 6.8,
+    "fats": 3.6,
+    "carbs": 13,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605034491",
+    "name": "Биойогурт Клубника-Черника без сахара АктиБио",
+    "calories": 57,
+    "proteins": 3,
+    "fats": 1.5,
+    "carbs": 7.8,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605034507",
+    "name": "Биойогурт. Манго, папайя без сахара",
+    "calories": 56,
+    "proteins": 3,
+    "fats": 1.5,
+    "carbs": 8.1,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605034514",
+    "name": "Биойогурт Персик-малина без сахара АктиБио",
+    "calories": 52,
+    "proteins": 3,
+    "fats": 1.5,
+    "carbs": 6.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605034552",
+    "name": "Биойогурт Актибио Персик Малина",
+    "calories": 76,
+    "proteins": 3.9,
+    "fats": 3,
+    "carbs": 8.3,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605034576",
+    "name": "Биойогурт Актибио Черника Клубника",
+    "calories": 80,
+    "proteins": 3.9,
+    "fats": 3,
+    "carbs": 9.3,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605034750",
+    "name": "Творог мягкий 0.1%",
+    "calories": 55,
+    "proteins": 10,
+    "fats": 0.1,
+    "carbs": 3.4,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605034835",
+    "name": "Йогурт Простоквашино греческий груша",
+    "calories": 88,
+    "proteins": 7.69230769230769,
+    "fats": 1.8,
+    "carbs": 10.3,
+    "weight": 100
+  },
+  {
+    "barcode": "4600605035283",
+    "name": "Напиток Planto классический",
+    "calories": 47,
+    "proteins": 1.1,
+    "fats": 2.3,
+    "carbs": 5.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600625307629",
+    "name": "Мороженое",
+    "calories": 280,
+    "proteins": 2.9,
+    "fats": 20,
+    "carbs": 22,
+    "weight": 100
+  },
+  {
+    "barcode": "4600631001320",
+    "name": "Хлеб Ржано-пшеничный Столовый",
+    "calories": 210,
+    "proteins": 7,
+    "fats": 1,
+    "carbs": 44,
+    "weight": 100
+  },
+  {
+    "barcode": "4600631004260",
+    "name": "Ролл Пшеничный",
+    "calories": 240,
+    "proteins": 7.5,
+    "fats": 1,
+    "carbs": 49,
+    "weight": 100
+  },
+  {
+    "barcode": "4600631008602",
+    "name": "Хлеб &quot;Пророщенные Зёрна Ржи&quot;",
+    "calories": 230,
+    "proteins": 5,
+    "fats": 1,
+    "carbs": 52,
+    "weight": 100
+  },
+  {
+    "barcode": "4600647010033",
+    "name": "AMCMHJ",
+    "calories": 1000,
+    "proteins": 6.67,
+    "fats": 10,
+    "carbs": 30,
+    "weight": 100
+  },
+  {
+    "barcode": "4600648570215",
+    "name": "Конфеты Отломи",
+    "calories": 514,
+    "proteins": 5.5,
+    "fats": 28,
+    "carbs": 60,
+    "weight": 100
+  },
+  {
+    "barcode": "4600648573308",
+    "name": "Fakkoha",
+    "calories": 539,
+    "proteins": 6,
+    "fats": 35,
+    "carbs": 50,
+    "weight": 100
+  },
+  {
+    "barcode": "4600653000929",
+    "name": "сырок молочная речка в морозилке кокос и банан",
+    "calories": 408,
+    "proteins": 7,
+    "fats": 28,
+    "carbs": 32,
+    "weight": 100
+  },
+  {
+    "barcode": "4600653001292",
+    "name": "Сырок Творожный С Ванилью",
+    "calories": 368,
+    "proteins": 9,
+    "fats": 24,
+    "carbs": 29,
+    "weight": 100
+  },
+  {
+    "barcode": "4600653001674",
+    "name": "Йогурт &quot;Фермерский завтрак&quot; с клубникой",
+    "calories": 101,
+    "proteins": 3,
+    "fats": 3.11111111111111,
+    "carbs": 15,
+    "weight": 100
+  },
+  {
+    "barcode": "4600653001728",
+    "name": "Йогурт &quot;Фермерский завтрак&quot; с грушей и семенами",
+    "calories": 94,
+    "proteins": 3.05555555555556,
+    "fats": 3.22222222222222,
+    "carbs": 13.3333333333333,
+    "weight": 100
+  },
+  {
+    "barcode": "4600653108205",
+    "name": "Кефир ГОСТ 31454-2012 1%",
+    "calories": 37,
+    "proteins": 3,
+    "fats": 1,
+    "carbs": 4,
+    "weight": 100
+  },
+  {
+    "barcode": "4600653110598",
+    "name": "Пудинг шоколадный",
+    "calories": 125,
+    "proteins": 4.1,
+    "fats": 3,
+    "carbs": 20.4,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680000640",
+    "name": "Nescafe Gold",
+    "calories": 63,
+    "proteins": 7,
+    "fats": 0.2,
+    "carbs": 9,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680003573",
+    "name": "Золотой®. Бульонные кубики. Бульон с курицей, брикетированный",
+    "calories": 251,
+    "proteins": 2.3,
+    "fats": 7.1,
+    "carbs": 44,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680005836",
+    "name": "Lion 2 GO",
+    "calories": 452,
+    "proteins": 8.4,
+    "fats": 19,
+    "carbs": 60,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680005843",
+    "name": "Lion 2Go",
+    "calories": 453,
+    "proteins": 8.4,
+    "fats": 19.8,
+    "carbs": 59.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680007489",
+    "name": "LION BARRETTA CON PEZZI DI CIOCCOLATO",
+    "calories": 453,
+    "proteins": 8.4,
+    "fats": 19.8,
+    "carbs": 59.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680009667",
+    "name": "Kit Kat Double Chocolate",
+    "calories": 523,
+    "proteins": 5.9,
+    "fats": 27.8,
+    "carbs": 61.1,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680009674",
+    "name": "KitKat saveur caramel cappuccino",
+    "calories": 525,
+    "proteins": 6,
+    "fats": 27.7,
+    "carbs": 62.3,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680009681",
+    "name": "Kit kat noix de coco",
+    "calories": 526,
+    "proteins": 6.1,
+    "fats": 27.7,
+    "carbs": 62.4,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680010335",
+    "name": "Gateau",
+    "calories": 526,
+    "proteins": 6.0999999046326,
+    "fats": 27.89999961853,
+    "carbs": 62,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680010632",
+    "name": "Nescafé® Classic. Натуральный растворимый порошкообразный кофе с добавлением натурального жареного молотого кофе.",
+    "calories": 128,
+    "proteins": 8,
+    "fats": 1,
+    "carbs": 3,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680010793",
+    "name": "Kitkat gold",
+    "calories": 526,
+    "proteins": 6.1,
+    "fats": 27.9,
+    "carbs": 62,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680010816",
+    "name": "Kitkat gold",
+    "calories": 526,
+    "proteins": 2.6,
+    "fats": 11.6,
+    "carbs": 25.8,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680012728",
+    "name": "KITKAT Gold 3x41,5g",
+    "calories": 527,
+    "proteins": 6.2,
+    "fats": 28,
+    "carbs": 62,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680013800",
+    "name": "Kitkat dark",
+    "calories": 521,
+    "proteins": 5.7,
+    "fats": 27.6,
+    "carbs": 60.3,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680013954",
+    "name": "KitKat Dark Orange",
+    "calories": 526,
+    "proteins": 5.8,
+    "fats": 28.1,
+    "carbs": 61.4,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680014982",
+    "name": "Zebra Dark&White",
+    "calories": 510,
+    "proteins": 7.2,
+    "fats": 29,
+    "carbs": 54,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680015002",
+    "name": "Kit kat zebra dark & white",
+    "calories": 521,
+    "proteins": 5.7,
+    "fats": 27.6,
+    "carbs": 60.3,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680016382",
+    "name": "kitkat",
+    "calories": 521,
+    "proteins": 5.7,
+    "fats": 27.6,
+    "carbs": 60.3,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680016405",
+    "name": "Kitkat A Taste of Strawberry",
+    "calories": 530,
+    "proteins": 5.1,
+    "fats": 28.2,
+    "carbs": 63.3,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680016429",
+    "name": "KitKat Zebra",
+    "calories": 521,
+    "proteins": 5.7,
+    "fats": 27.6,
+    "carbs": 60.3,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680017099",
+    "name": "Nescafi",
+    "calories": 1,
+    "proteins": 0.1,
+    "fats": 0,
+    "carbs": 0,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680023472",
+    "name": "Мультизлаковая",
+    "calories": 100,
+    "proteins": 3.2,
+    "fats": 2.5,
+    "carbs": 15.9,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680025582",
+    "name": "Хрутка шоколадные шарики duo",
+    "calories": 379,
+    "proteins": 8.7,
+    "fats": 4.3,
+    "carbs": 72.1,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680026206",
+    "name": "Какао Напиток",
+    "calories": 393,
+    "proteins": 5.3,
+    "fats": 3,
+    "carbs": 83,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680029375",
+    "name": "Хрутки Клубника Ваниль Хлопья",
+    "calories": 383,
+    "proteins": 7.3,
+    "fats": 3.7,
+    "carbs": 77.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680029498",
+    "name": "Хлопья овсяные Клубника с Молоком",
+    "calories": 368,
+    "proteins": 10.75,
+    "fats": 5.25,
+    "carbs": 65,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680029559",
+    "name": "Хлопья овсяные без варки Черника",
+    "calories": 73,
+    "proteins": 1.95,
+    "fats": 1.1,
+    "carbs": 13,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680029627",
+    "name": "Овсянка Клубника",
+    "calories": 369,
+    "proteins": 9.8,
+    "fats": 5.5,
+    "carbs": 66,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680029719",
+    "name": "Лесные Ягоды",
+    "calories": 369,
+    "proteins": 10,
+    "fats": 5.6,
+    "carbs": 66,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680034942",
+    "name": "Goodmix Снежный миндаль",
+    "calories": 531,
+    "proteins": 5.1,
+    "fats": 28,
+    "carbs": 63,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680035109",
+    "name": "Шоколад Молочный белый Воздушный",
+    "calories": 542,
+    "proteins": 5.7,
+    "fats": 30,
+    "carbs": 61,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680035215",
+    "name": "Молочный шоколад",
+    "calories": 538,
+    "proteins": 6.6,
+    "fats": 30,
+    "carbs": 59,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680036168",
+    "name": "Goodmix соленая карамель",
+    "calories": 526,
+    "proteins": 6.1,
+    "fats": 28,
+    "carbs": 62,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680036175",
+    "name": "Goodmix соленый арахис",
+    "calories": 528,
+    "proteins": 6,
+    "fats": 28,
+    "carbs": 61,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680036182",
+    "name": "Goodmix Попкорн",
+    "calories": 526,
+    "proteins": 6.1,
+    "fats": 28,
+    "carbs": 62,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680036199",
+    "name": "Goodmix со фкусом печенья",
+    "calories": 526,
+    "proteins": 6.1,
+    "fats": 28,
+    "carbs": 62,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680037080",
+    "name": "Хрустящий Готовый Шоколадный Завтрак",
+    "calories": 370,
+    "proteins": 8.96666666666667,
+    "fats": 3.36666666666667,
+    "carbs": 70.3333333333333,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680037516",
+    "name": "Шоколадный батончик GoodMiX Малиновый рассвет",
+    "calories": 527,
+    "proteins": 6.1,
+    "fats": 28,
+    "carbs": 62,
+    "weight": 100
+  },
+  {
+    "barcode": "4600680251639",
+    "name": "пюре нестле яблоко смотка",
+    "calories": 68,
+    "proteins": 0.333333333333333,
+    "fats": 0.111111111111111,
+    "carbs": 16.1111111111111,
+    "weight": 100
+  },
+  {
+    "barcode": "4600682003212",
+    "name": "Пивной напиток &quot;Балтика безалкогольные пшеничное&quot;",
+    "calories": 30,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 30,
+    "weight": 100
+  },
+  {
+    "barcode": "4600682007456",
+    "name": "Baltika #7 Export lager, 5,4%",
+    "calories": 45,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 0,
+    "weight": 100
+  },
+  {
+    "barcode": "4600682042389",
+    "name": "Beer Alcohol FREE",
+    "calories": 30,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 5.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600682054016",
+    "name": "Flash Up Zero Mode Peach Bilberry",
+    "calories": 3,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 0.3,
+    "weight": 100
+  },
+  {
+    "barcode": "4600682251453",
+    "name": "Baltika",
+    "calories": 30,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 5.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600694050655",
+    "name": "Chocolats Belochka",
+    "calories": 560,
+    "proteins": 9,
+    "fats": 35,
+    "carbs": 51,
+    "weight": 100
+  },
+  {
+    "barcode": "4600694170513",
+    "name": "Milk Chocolate Mascha i Medwedj",
+    "calories": 568,
+    "proteins": 8,
+    "fats": 36,
+    "carbs": 53,
+    "weight": 100
+  },
+  {
+    "barcode": "4600699001355",
+    "name": "Йогурт питьевой с манго и киви",
+    "calories": 68,
+    "proteins": 2.8,
+    "fats": 2,
+    "carbs": 9.6,
+    "weight": 100
+  },
+  {
+    "barcode": "4600699001362",
+    "name": "Йогурт питьевой с грушей и ванилью",
+    "calories": 69,
+    "proteins": 2.8,
+    "fats": 2,
+    "carbs": 9.8,
+    "weight": 100
+  },
+  {
+    "barcode": "4600699001997",
+    "name": "Пельмени с растительным фаршем HiPELLY",
+    "calories": 244,
+    "proteins": 9,
+    "fats": 10,
+    "carbs": 28,
+    "weight": 100
+  },
+  {
+    "barcode": "4600699002116",
+    "name": "Йогурт &quot;Hi&quot; Фейхоа, виноград, базилик",
+    "calories": 80,
+    "proteins": 2.2,
+    "fats": 2.5,
+    "carbs": 13.3,
+    "weight": 100
+  },
+  {
+    "barcode": "4600699002215",
+    "name": "Кетчуп Шашлычный",
+    "calories": 88,
+    "proteins": 1.9,
+    "fats": 0,
+    "carbs": 20.2,
+    "weight": 100
+  },
+  {
+    "barcode": "4600699004479",
+    "name": "грибной соус гурме",
+    "calories": 340,
+    "proteins": 0.2,
+    "fats": 35,
+    "carbs": 6,
+    "weight": 100
+  },
+  {
+    "barcode": "4600699501121",
+    "name": "Слобода для жарки и салатов",
+    "calories": 899,
+    "proteins": 0.01,
+    "fats": 99.9,
+    "carbs": 0.01,
+    "weight": 100
+  },
+  {
+    "barcode": "4600699502494",
+    "name": "масло подсолнечное",
+    "calories": 900,
+    "proteins": 0,
+    "fats": 100,
+    "carbs": 0,
+    "weight": 100
+  },
+  {
+    "barcode": "4600699503804",
+    "name": "майонез слобода на перепелиных яйцах",
+    "calories": 610,
+    "proteins": 0.2,
+    "fats": 67,
+    "carbs": 2,
+    "weight": 100
+  },
+  {
+    "barcode": "4600699503880",
+    "name": "Maionese con uova di quaglia",
+    "calories": 611,
+    "proteins": 0.4,
+    "fats": 67,
+    "carbs": 2,
+    "weight": 100
+  },
+  {
+    "barcode": "4600699505518",
+    "name": "Майонез &quot;Правонсаль классический слабода&quot;",
+    "calories": 610,
+    "proteins": 0.1,
+    "fats": 67,
+    "carbs": 1,
+    "weight": 100
+  },
+  {
+    "barcode": "4600699506010",
+    "name": "Maionese Slobodà оливковым маленький",
+    "calories": 611,
+    "proteins": 0.4,
+    "fats": 67,
+    "carbs": 2,
+    "weight": 100
+  },
+  {
+    "barcode": "4600699506799",
+    "name": "Масло подсолнечное с добавлением оливкового масла",
+    "calories": 899,
+    "proteins": 0,
+    "fats": 99.9,
+    "carbs": 0,
+    "weight": 100
+  },
+  {
+    "barcode": "4600699507475",
+    "name": "биойогург с персиком",
+    "calories": 90,
+    "proteins": 3,
+    "fats": 2.5,
+    "carbs": 13.8,
+    "weight": 100
+  },
+  {
+    "barcode": "4600699508045",
+    "name": "Майонез",
+    "calories": 610,
+    "proteins": 0.400000005960464,
+    "fats": 67,
+    "carbs": 2,
+    "weight": 100
+  },
+  {
+    "barcode": "4600699513384",
+    "name": "4600699513384",
+    "calories": 610,
+    "proteins": 0.5,
+    "fats": 67,
+    "carbs": 2,
+    "weight": 100
+  },
+  {
+    "barcode": "4600699515012",
+    "name": "Биойогурт Слобода Семейный Завтрак мандарин, мюсли, орехи",
+    "calories": 114,
+    "proteins": 3.6,
+    "fats": 5,
+    "carbs": 13.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600699515098",
+    "name": "Биойогурт &quot;Слобода&quot; с грушей и злаками",
+    "calories": 75,
+    "proteins": 2.8,
+    "fats": 2,
+    "carbs": 11,
+    "weight": 100
+  },
+  {
+    "barcode": "4600699515975",
+    "name": "Котлеты растительные Hi",
+    "calories": 239,
+    "proteins": 10,
+    "fats": 19,
+    "carbs": 4.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600721021566",
+    "name": "Hoegaarden hveteøl, 4,9%",
+    "calories": 44,
+    "proteins": 0.5,
+    "fats": 0,
+    "carbs": 3.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600721023775",
+    "name": "Spaten",
+    "calories": 45,
+    "proteins": 0.7,
+    "fats": 0,
+    "carbs": 3.1,
+    "weight": 100
+  },
+  {
+    "barcode": "4600721026820",
+    "name": "эсса 0 кокос",
+    "calories": 25,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 4.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600749000857",
+    "name": "Pasta de piri piri",
+    "calories": 73,
+    "proteins": 3.2300000190735,
+    "fats": 2.7400000095367,
+    "carbs": 5.0999999046326,
+    "weight": 100
+  },
+  {
+    "barcode": "4600765001357",
+    "name": "Греческий йогурт",
+    "calories": 76,
+    "proteins": 7.5,
+    "fats": 4,
+    "carbs": 2.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600765003658",
+    "name": "Мусс Творожный &quot;Вишня-черешня&quot;",
+    "calories": 118,
+    "proteins": 6.4,
+    "fats": 3.2,
+    "carbs": 16,
+    "weight": 100
+  },
+  {
+    "barcode": "4600765003757",
+    "name": "Йогурт Греческий",
+    "calories": 76,
+    "proteins": 7.5,
+    "fats": 4,
+    "carbs": 2.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600765004525",
+    "name": "Ирландский Скир",
+    "calories": 91,
+    "proteins": 9.3,
+    "fats": 1.2,
+    "carbs": 10.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600765004563",
+    "name": "Исландский Скир 1.5%",
+    "calories": 72,
+    "proteins": 11,
+    "fats": 1.5,
+    "carbs": 3.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600765004570",
+    "name": "Скир Зел.лин черника малина",
+    "calories": 91,
+    "proteins": 9.3,
+    "fats": 1.2,
+    "carbs": 10.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600765004679",
+    "name": "Исландский скир &quot;Печеное яблоко&quot; 1,2%",
+    "calories": 96,
+    "proteins": 9.3,
+    "fats": 1.2,
+    "carbs": 11.9,
+    "weight": 100
+  },
+  {
+    "barcode": "4600765004754",
+    "name": "Творог Высоко белковый Мягкий",
+    "calories": 72,
+    "proteins": 11,
+    "fats": 1.5,
+    "carbs": 3.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600765005140",
+    "name": "Творог Высокобелковый Мягкий «Морковный Пирог»",
+    "calories": 95,
+    "proteins": 9.3,
+    "fats": 1.2,
+    "carbs": 11.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600765005881",
+    "name": "Пудинг высокобелковый шоколадный",
+    "calories": 67,
+    "proteins": 10,
+    "fats": 1,
+    "carbs": 4.4,
+    "weight": 100
+  },
+  {
+    "barcode": "4600765006468",
+    "name": "Исландский Скир &quot;Манго-апельсин&quot;",
+    "calories": 85,
+    "proteins": 9.3,
+    "fats": 1.2,
+    "carbs": 925.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600765023946",
+    "name": "Йогурт с лесными ягодами",
+    "calories": 66,
+    "proteins": 2.8,
+    "fats": 1.5,
+    "carbs": 10.3,
+    "weight": 100
+  },
+  {
+    "barcode": "4600765026954",
+    "name": "Йогурт греческий без сахара",
+    "calories": 76,
+    "proteins": 7.5,
+    "fats": 4,
+    "carbs": 2.5,
+    "weight": 100
+  },
+  {
+    "barcode": "4600765027340",
+    "name": "Скир с печеным яблоком",
+    "calories": 96,
+    "proteins": 9.3,
+    "fats": 1.2,
+    "carbs": 11.9,
+    "weight": 100
+  },
+  {
+    "barcode": "4600765027357",
+    "name": "Исландский Скип С Черникой И Малиной",
+    "calories": 91,
+    "proteins": 9.3,
+    "fats": 1.2,
+    "carbs": 10.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600765027364",
+    "name": "isey skyr",
+    "calories": 72,
+    "proteins": 11,
+    "fats": 1.5,
+    "carbs": 3.7,
+    "weight": 100
+  },
+  {
+    "barcode": "4600766001943",
+    "name": "Настоящий Пломбир 18%",
+    "calories": 260,
+    "proteins": 3.5,
+    "fats": 17,
+    "carbs": 23,
+    "weight": 100
+  },
+  {
+    "barcode": "4600778015075",
+    "name": "Протеиновый батончик",
+    "calories": 320,
+    "proteins": 28.33,
+    "fats": 10,
+    "carbs": 14.17,
+    "weight": 100
+  },
+  {
+    "barcode": "4600778021014",
+    "name": "Конфета арахисовая Caramel Bite",
+    "calories": 547,
+    "proteins": 13.3333333333333,
+    "fats": 40,
+    "carbs": 26.6666666666667,
+    "weight": 100
+  },
+  {
+    "barcode": "4600795058383",
+    "name": "Нарезной Пирог Со Вкусом Шоколада",
+    "calories": 380,
+    "proteins": 6,
+    "fats": 18,
+    "carbs": 49,
+    "weight": 100
+  },
+  {
+    "barcode": "46008150000258290722",
+    "name": "Gemarineerde Spareribs",
+    "calories": 792,
+    "proteins": 18.3,
+    "fats": 12.4,
+    "carbs": 1.3,
+    "weight": 100
+  },
+  {
+    "barcode": "4600819001425",
+    "name": "Каша Овсяная Груша и Изюм",
+    "calories": 340,
+    "proteins": 11,
+    "fats": 6,
+    "carbs": 56,
+    "weight": 100
+  },
+  {
+    "barcode": "4600819030210",
+    "name": "Oat & raisins",
+    "calories": 360,
+    "proteins": 10,
+    "fats": 5.5,
+    "carbs": 61,
+    "weight": 100
+  },
+  {
+    "barcode": "4600819351681",
+    "name": "Oatmeal",
+    "calories": 340,
+    "proteins": 12,
+    "fats": 6,
+    "carbs": 60,
+    "weight": 100
+  },
+  {
+    "barcode": "4600823009141",
+    "name": "Vdohnovenie Chocolat noir aux amandes 75% Cacao",
+    "calories": 540,
+    "proteins": 11,
+    "fats": 38,
+    "carbs": 31,
+    "weight": 100
+  },
+  {
+    "barcode": "4600823021075",
+    "name": "Alionka Milk Chocolate Bar 60G",
+    "calories": 551,
+    "proteins": 7,
+    "fats": 34,
+    "carbs": 53,
+    "weight": 100
+  },
+  {
+    "barcode": "4600823030091",
+    "name": "Schokolade mit Fondatfulling-sahnegeschmack",
+    "calories": 478,
+    "proteins": 5,
+    "fats": 24,
+    "carbs": 58,
+    "weight": 100
+  },
+  {
+    "barcode": "4600823143005",
+    "name": "Бабаевский горький",
+    "calories": 540,
+    "proteins": 8.5,
+    "fats": 35,
+    "carbs": 42,
+    "weight": 100
+  },
+  {
+    "barcode": "4600823143203",
+    "name": "Шоколад горький Бабаевский 58.8%",
+    "calories": 540,
+    "proteins": 8.5,
+    "fats": 35,
+    "carbs": 43,
+    "weight": 100
+  },
+  {
+    "barcode": "4600823179011",
+    "name": "Тёмный шоколад с фундуком и изюмом",
+    "calories": 530,
+    "proteins": 7,
+    "fats": 33,
+    "carbs": 46,
+    "weight": 100
+  },
+  {
+    "barcode": "4600823193857",
+    "name": "Аленка",
+    "calories": 540,
+    "proteins": 5.5,
+    "fats": 31,
+    "carbs": 59,
+    "weight": 100
+  },
+  {
+    "barcode": "4600823650619",
+    "name": "Тёмный шоколад с кешью и фундуком",
+    "calories": 550,
+    "proteins": 9,
+    "fats": 37,
+    "carbs": 42,
+    "weight": 100
+  },
+  {
+    "barcode": "4600823651074",
+    "name": "Шоколад Горький",
+    "calories": 540,
+    "proteins": 8.5,
+    "fats": 35,
+    "carbs": 43,
+    "weight": 100
+  },
+  {
+    "barcode": "4600823651159",
+    "name": "Шоколад Темный С Грейпфрутом",
+    "calories": 530,
+    "proteins": 6,
+    "fats": 31,
+    "carbs": 54,
+    "weight": 100
+  },
+  {
+    "barcode": "4600823651197",
+    "name": "Темный Шоколад",
+    "calories": 550,
+    "proteins": 8,
+    "fats": 34,
+    "carbs": 52,
+    "weight": 100
+  },
+  {
+    "barcode": "4600851005429",
+    "name": "Senfpaste &quot;Stolitschnaja&quot;",
+    "calories": 232,
+    "proteins": 9.6,
+    "fats": 11,
+    "carbs": 22,
+    "weight": 100
+  }
+]

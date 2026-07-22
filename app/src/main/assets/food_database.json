@@ -1,0 +1,2410 @@
+[
+  {
+    "name": "Курица",
+    "category": "meat",
+    "calories": 165,
+    "proteins": 31,
+    "fats": 3.6,
+    "carbs": 0
+  },
+  {
+    "name": "Говядина",
+    "category": "meat",
+    "calories": 250,
+    "proteins": 24,
+    "fats": 12,
+    "carbs": 0
+  },
+  {
+    "name": "Баранина",
+    "category": "meat",
+    "calories": 209,
+    "proteins": 15.6,
+    "fats": 16.3,
+    "carbs": 0
+  },
+  {
+    "name": "Свинина",
+    "category": "meat",
+    "calories": 259,
+    "proteins": 16,
+    "fats": 21.6,
+    "carbs": 0
+  },
+  {
+    "name": "Индейка",
+    "category": "meat",
+    "calories": 135,
+    "proteins": 29,
+    "fats": 1,
+    "carbs": 0
+  },
+  {
+    "name": "Утка",
+    "category": "meat",
+    "calories": 337,
+    "proteins": 19,
+    "fats": 28,
+    "carbs": 0
+  },
+  {
+    "name": "Шашлык из свинины",
+    "category": "meat",
+    "calories": 326,
+    "proteins": 26,
+    "fats": 23,
+    "carbs": 1.4
+  },
+  {
+    "name": "Шашлык из баранины",
+    "category": "meat",
+    "calories": 141,
+    "proteins": 19,
+    "fats": 6,
+    "carbs": 1.4
+  },
+  {
+    "name": "Шашлык из говядины",
+    "category": "meat",
+    "calories": 170,
+    "proteins": 14,
+    "fats": 8.5,
+    "carbs": 1
+  },
+  {
+    "name": "Шашлык из курицы",
+    "category": "meat",
+    "calories": 220,
+    "proteins": 24,
+    "fats": 13,
+    "carbs": 1
+  },
+  {
+    "name": "Говяжья котлета",
+    "category": "meat",
+    "calories": 214,
+    "proteins": 14,
+    "fats": 11.5,
+    "carbs": 13.5
+  },
+  {
+    "name": "Свиная котлета",
+    "category": "meat",
+    "calories": 244,
+    "proteins": 12,
+    "fats": 15.5,
+    "carbs": 13.5
+  },
+  {
+    "name": "Куриная котлета",
+    "category": "meat",
+    "calories": 226,
+    "proteins": 19,
+    "fats": 10,
+    "carbs": 13.5
+  },
+  {
+    "name": "Гуляш из говядины",
+    "category": "meat",
+    "calories": 109,
+    "proteins": 13,
+    "fats": 4.6,
+    "carbs": 3
+  },
+  {
+    "name": "Гуляш из свинины",
+    "category": "meat",
+    "calories": 150,
+    "proteins": 12,
+    "fats": 9.5,
+    "carbs": 3.3
+  },
+  {
+    "name": "Гуляш из курицы",
+    "category": "meat",
+    "calories": 104,
+    "proteins": 14,
+    "fats": 3.5,
+    "carbs": 3.3
+  },
+  {
+    "name": "Сосиски",
+    "category": "meat",
+    "calories": 260,
+    "proteins": 11,
+    "fats": 25,
+    "carbs": 2
+  },
+  {
+    "name": "Колбаса",
+    "category": "meat",
+    "calories": 301,
+    "proteins": 15,
+    "fats": 25,
+    "carbs": 2
+  },
+  {
+    "name": "Лосось",
+    "category": "fish",
+    "calories": 208,
+    "proteins": 20,
+    "fats": 13,
+    "carbs": 0
+  },
+  {
+    "name": "Горбуша",
+    "category": "fish",
+    "calories": 127,
+    "proteins": 20.5,
+    "fats": 4.4,
+    "carbs": 0
+  },
+  {
+    "name": "Тунец",
+    "category": "fish",
+    "calories": 139,
+    "proteins": 24.4,
+    "fats": 4.6,
+    "carbs": 0
+  },
+  {
+    "name": "Скумбрия",
+    "category": "fish",
+    "calories": 191,
+    "proteins": 18,
+    "fats": 13,
+    "carbs": 0
+  },
+  {
+    "name": "Селедка",
+    "category": "fish",
+    "calories": 161,
+    "proteins": 16,
+    "fats": 11,
+    "carbs": 0
+  },
+  {
+    "name": "Жареная рыба",
+    "category": "fish",
+    "calories": 210,
+    "proteins": 18,
+    "fats": 14,
+    "carbs": 5
+  },
+  {
+    "name": "Минтай",
+    "category": "fish",
+    "calories": 210,
+    "proteins": 18,
+    "fats": 14,
+    "carbs": 5
+  },
+  {
+    "name": "Яйцо",
+    "category": "egg",
+    "calories": 157,
+    "proteins": 13,
+    "fats": 11,
+    "carbs": 1
+  },
+  {
+    "name": "Омлет",
+    "category": "egg",
+    "calories": 184,
+    "proteins": 10,
+    "fats": 15,
+    "carbs": 2
+  },
+  {
+    "name": "Яичница",
+    "category": "egg",
+    "calories": 196,
+    "proteins": 13,
+    "fats": 15,
+    "carbs": 1
+  },
+  {
+    "name": "Борщ",
+    "category": "soup",
+    "calories": 49,
+    "proteins": 1.1,
+    "fats": 2.2,
+    "carbs": 6.7
+  },
+  {
+    "name": "Щи",
+    "category": "soup",
+    "calories": 45,
+    "proteins": 1.3,
+    "fats": 2,
+    "carbs": 5.5
+  },
+  {
+    "name": "Солянка",
+    "category": "soup",
+    "calories": 69,
+    "proteins": 5.2,
+    "fats": 4.6,
+    "carbs": 2
+  },
+  {
+    "name": "Окрошка",
+    "category": "soup",
+    "calories": 60,
+    "proteins": 3,
+    "fats": 4,
+    "carbs": 3
+  },
+  {
+    "name": "Куриный суп",
+    "category": "soup",
+    "calories": 52,
+    "proteins": 4,
+    "fats": 2,
+    "carbs": 4
+  },
+  {
+    "name": "Грибной суп",
+    "category": "soup",
+    "calories": 38,
+    "proteins": 1.5,
+    "fats": 1.8,
+    "carbs": 4.2
+  },
+  {
+    "name": "Уха",
+    "category": "soup",
+    "calories": 23.7,
+    "proteins": 1.8,
+    "fats": 0.3,
+    "carbs": 3.6
+  },
+  {
+    "name": "Свекольник",
+    "category": "soup",
+    "calories": 27.5,
+    "proteins": 1.5,
+    "fats": 1,
+    "carbs": 3.4
+  },
+  {
+    "name": "Рис",
+    "category": "side_dish",
+    "calories": 130,
+    "proteins": 2.7,
+    "fats": 0.3,
+    "carbs": 28
+  },
+  {
+    "name": "Гречка",
+    "category": "side_dish",
+    "calories": 110,
+    "proteins": 4.2,
+    "fats": 1.1,
+    "carbs": 21
+  },
+  {
+    "name": "Макароны",
+    "category": "side_dish",
+    "calories": 150,
+    "proteins": 5,
+    "fats": 1,
+    "carbs": 30
+  },
+  {
+    "name": "Картофель",
+    "category": "side_dish",
+    "calories": 80,
+    "proteins": 2,
+    "fats": 0.4,
+    "carbs": 17
+  },
+  {
+    "name": "Картофельное пюре",
+    "category": "side_dish",
+    "calories": 105,
+    "proteins": 2.3,
+    "fats": 4.2,
+    "carbs": 15
+  },
+  {
+    "name": "Булгур",
+    "category": "side_dish",
+    "calories": 83,
+    "proteins": 3.1,
+    "fats": 0.2,
+    "carbs": 18
+  },
+  {
+    "name": "Овсяная каша",
+    "category": "side_dish",
+    "calories": 88,
+    "proteins": 3.2,
+    "fats": 2.1,
+    "carbs": 16.5
+  },
+  {
+    "name": "Пшенная каша",
+    "category": "side_dish",
+    "calories": 104,
+    "proteins": 3.2,
+    "fats": 0.7,
+    "carbs": 19
+  },
+  {
+    "name": "Манная каша",
+    "category": "side_dish",
+    "calories": 80,
+    "proteins": 2.6,
+    "fats": 0.2,
+    "carbs": 16.3
+  },
+  {
+    "name": "Оливье",
+    "category": "salad",
+    "calories": 198,
+    "proteins": 5,
+    "fats": 16,
+    "carbs": 7
+  },
+  {
+    "name": "Цезарь",
+    "category": "salad",
+    "calories": 180,
+    "proteins": 10,
+    "fats": 12,
+    "carbs": 7
+  },
+  {
+    "name": "Греческий салат",
+    "category": "salad",
+    "calories": 97,
+    "proteins": 3.5,
+    "fats": 7.5,
+    "carbs": 3.8
+  },
+  {
+    "name": "Винегрет",
+    "category": "salad",
+    "calories": 122,
+    "proteins": 1.5,
+    "fats": 7,
+    "carbs": 13
+  },
+  {
+    "name": "Селедка под шубой",
+    "category": "salad",
+    "calories": 193,
+    "proteins": 5.8,
+    "fats": 16,
+    "carbs": 8
+  },
+  {
+    "name": "Овощной салат",
+    "category": "salad",
+    "calories": 55,
+    "proteins": 1.5,
+    "fats": 3,
+    "carbs": 5
+  },
+  {
+    "name": "Крабовый салат",
+    "category": "salad",
+    "calories": 185,
+    "proteins": 6.5,
+    "fats": 14,
+    "carbs": 9
+  },
+  {
+    "name": "Мимоза",
+    "category": "salad",
+    "calories": 220,
+    "proteins": 9,
+    "fats": 17,
+    "carbs": 8
+  },
+  {
+    "name": "Гранатовый браслет",
+    "category": "salad",
+    "calories": 190,
+    "proteins": 7,
+    "fats": 15,
+    "carbs": 8
+  },
+  {
+    "name": "Столичный",
+    "category": "salad",
+    "calories": 195,
+    "proteins": 8.5,
+    "fats": 16,
+    "carbs": 7
+  },
+  {
+    "name": "Фруктовый салат",
+    "category": "salad",
+    "calories": 70,
+    "proteins": 1.5,
+    "fats": 0.6,
+    "carbs": 14.8
+  },
+  {
+    "name": "Хлеб",
+    "category": "bakery",
+    "calories": 265,
+    "proteins": 8,
+    "fats": 3.2,
+    "carbs": 49
+  },
+  {
+    "name": "Круассан",
+    "category": "bakery",
+    "calories": 406,
+    "proteins": 8.2,
+    "fats": 21,
+    "carbs": 45
+  },
+  {
+    "name": "Пирог",
+    "category": "bakery",
+    "calories": 289,
+    "proteins": 5,
+    "fats": 14,
+    "carbs": 36
+  },
+  {
+    "name": "Блины",
+    "category": "bakery",
+    "calories": 233,
+    "proteins": 6.1,
+    "fats": 12.3,
+    "carbs": 25
+  },
+  {
+    "name": "Пончик",
+    "category": "dessert",
+    "calories": 452,
+    "proteins": 4.9,
+    "fats": 25,
+    "carbs": 51
+  },
+  {
+    "name": "Торт",
+    "category": "dessert",
+    "calories": 350,
+    "proteins": 4.5,
+    "fats": 18,
+    "carbs": 42
+  },
+  {
+    "name": "Мороженое",
+    "category": "dessert",
+    "calories": 207,
+    "proteins": 3.5,
+    "fats": 11,
+    "carbs": 24
+  },
+  {
+    "name": "Сырники",
+    "category": "dessert",
+    "calories": 220,
+    "proteins": 14,
+    "fats": 9,
+    "carbs": 19
+  },
+  {
+    "name": "Творог",
+    "category": "dessert",
+    "calories": 121,
+    "proteins": 17,
+    "fats": 5,
+    "carbs": 3
+  },
+  {
+    "name": "Яблоко",
+    "category": "fruit",
+    "calories": 52,
+    "proteins": 0.3,
+    "fats": 0.2,
+    "carbs": 14
+  },
+  {
+    "name": "Банан",
+    "category": "fruit",
+    "calories": 89,
+    "proteins": 1.1,
+    "fats": 0.3,
+    "carbs": 23
+  },
+  {
+    "name": "Апельсин",
+    "category": "fruit",
+    "calories": 47,
+    "proteins": 0.9,
+    "fats": 0.1,
+    "carbs": 12
+  },
+  {
+    "name": "Виноград",
+    "category": "fruit",
+    "calories": 69,
+    "proteins": 0.7,
+    "fats": 0.2,
+    "carbs": 18
+  },
+  {
+    "name": "Груша",
+    "category": "fruit",
+    "calories": 57,
+    "proteins": 0.4,
+    "fats": 0.1,
+    "carbs": 15
+  },
+  {
+    "name": "Киви",
+    "category": "fruit",
+    "calories": 61,
+    "proteins": 1.1,
+    "fats": 0.5,
+    "carbs": 15
+  },
+  {
+    "name": "Клубника",
+    "category": "fruit",
+    "calories": 32,
+    "proteins": 0.7,
+    "fats": 0.3,
+    "carbs": 7.7
+  },
+  {
+    "name": "Манго",
+    "category": "fruit",
+    "calories": 60,
+    "proteins": 0.8,
+    "fats": 0.4,
+    "carbs": 15
+  },
+  {
+    "name": "Ананас",
+    "category": "fruit",
+    "calories": 52,
+    "proteins": 0.3,
+    "fats": 0.1,
+    "carbs": 11.8
+  },
+  {
+    "name": "Арбуз",
+    "category": "fruit",
+    "calories": 27,
+    "proteins": 0.6,
+    "fats": 0.1,
+    "carbs": 5.8
+  },
+  {
+    "name": "Дыня",
+    "category": "fruit",
+    "calories": 35,
+    "proteins": 0.6,
+    "fats": 0.3,
+    "carbs": 7.4
+  },
+  {
+    "name": "Малина",
+    "category": "fruit",
+    "calories": 46,
+    "proteins": 0.8,
+    "fats": 0.5,
+    "carbs": 8.3
+  },
+  {
+    "name": "Смородина",
+    "category": "fruit",
+    "calories": 44,
+    "proteins": 1,
+    "fats": 0.4,
+    "carbs": 7.3
+  },
+  {
+    "name": "Абрикос",
+    "category": "fruit",
+    "calories": 44,
+    "proteins": 0.9,
+    "fats": 0.1,
+    "carbs": 9
+  },
+  {
+    "name": "Персик",
+    "category": "fruit",
+    "calories": 45,
+    "proteins": 0.9,
+    "fats": 0.1,
+    "carbs": 9.5
+  },
+  {
+    "name": "Слива",
+    "category": "fruit",
+    "calories": 49,
+    "proteins": 0.8,
+    "fats": 0.3,
+    "carbs": 9.6
+  },
+  {
+    "name": "Хурма",
+    "category": "fruit",
+    "calories": 67,
+    "proteins": 0.5,
+    "fats": 0.4,
+    "carbs": 15.3
+  },
+  {
+    "name": "Финики",
+    "category": "fruit",
+    "calories": 292,
+    "proteins": 2.8,
+    "fats": 0.5,
+    "carbs": 69.2
+  },
+  {
+    "name": "Лимон",
+    "category": "fruit",
+    "calories": 34,
+    "proteins": 0.9,
+    "fats": 0.1,
+    "carbs": 3
+  },
+  {
+    "name": "Вишня",
+    "category": "fruit",
+    "calories": 52,
+    "proteins": 0.8,
+    "fats": 0.2,
+    "carbs": 10.6
+  },
+  {
+    "name": "Курага",
+    "category": "fruit",
+    "calories": 232,
+    "proteins": 5.2,
+    "fats": 0.3,
+    "carbs": 51
+  },
+  {
+    "name": "Чернослив",
+    "category": "fruit",
+    "calories": 256,
+    "proteins": 2.3,
+    "fats": 0.7,
+    "carbs": 57.5
+  },
+  {
+    "name": "Помидор",
+    "category": "vegetable",
+    "calories": 18,
+    "proteins": 0.9,
+    "fats": 0.2,
+    "carbs": 3.9
+  },
+  {
+    "name": "Огурец",
+    "category": "vegetable",
+    "calories": 15,
+    "proteins": 0.8,
+    "fats": 0.1,
+    "carbs": 2.8
+  },
+  {
+    "name": "Морковь",
+    "category": "vegetable",
+    "calories": 41,
+    "proteins": 0.9,
+    "fats": 0.2,
+    "carbs": 10
+  },
+  {
+    "name": "Брокколи",
+    "category": "vegetable",
+    "calories": 34,
+    "proteins": 2.8,
+    "fats": 0.4,
+    "carbs": 7
+  },
+  {
+    "name": "Капуста",
+    "category": "vegetable",
+    "calories": 25,
+    "proteins": 1.3,
+    "fats": 0.1,
+    "carbs": 6
+  },
+  {
+    "name": "Перец",
+    "category": "vegetable",
+    "calories": 27,
+    "proteins": 1.3,
+    "fats": 0.1,
+    "carbs": 5.3
+  },
+  {
+    "name": "Кабачок",
+    "category": "vegetable",
+    "calories": 24,
+    "proteins": 0.6,
+    "fats": 0.3,
+    "carbs": 4.6
+  },
+  {
+    "name": "Баклажан",
+    "category": "vegetable",
+    "calories": 24,
+    "proteins": 1.2,
+    "fats": 0.1,
+    "carbs": 4.5
+  },
+  {
+    "name": "Цветная капуста",
+    "category": "vegetable",
+    "calories": 30,
+    "proteins": 2.5,
+    "fats": 0.3,
+    "carbs": 4.2
+  },
+  {
+    "name": "Лук зеленый",
+    "category": "vegetable",
+    "calories": 21,
+    "proteins": 1.4,
+    "fats": 0,
+    "carbs": 4.2
+  },
+  {
+    "name": "Лук репчатый",
+    "category": "vegetable",
+    "calories": 41,
+    "proteins": 1.4,
+    "fats": 0.2,
+    "carbs": 8.2
+  },
+  {
+    "name": "Редис",
+    "category": "vegetable",
+    "calories": 20,
+    "proteins": 1.2,
+    "fats": 0.1,
+    "carbs": 3.4
+  },
+  {
+    "name": "Свекла",
+    "category": "vegetable",
+    "calories": 42,
+    "proteins": 1.5,
+    "fats": 0.1,
+    "carbs": 8.8
+  },
+  {
+    "name": "Тыква",
+    "category": "vegetable",
+    "calories": 22,
+    "proteins": 1,
+    "fats": 0.1,
+    "carbs": 4.4
+  },
+  {
+    "name": "Петрушка",
+    "category": "vegetable",
+    "calories": 45,
+    "proteins": 3.8,
+    "fats": 0,
+    "carbs": 8
+  },
+  {
+    "name": "Укроп",
+    "category": "vegetable",
+    "calories": 40,
+    "proteins": 2.5,
+    "fats": 0.5,
+    "carbs": 6.3
+  },
+  {
+    "name": "Кинза",
+    "category": "vegetable",
+    "calories": 23,
+    "proteins": 2.1,
+    "fats": 0.5,
+    "carbs": 1.9
+  },
+  {
+    "name": "Шпинат",
+    "category": "vegetable",
+    "calories": 22,
+    "proteins": 2.6,
+    "fats": 0,
+    "carbs": 2.6
+  },
+  {
+    "name": "Пицца",
+    "category": "fast_food",
+    "calories": 266,
+    "proteins": 11,
+    "fats": 10,
+    "carbs": 33
+  },
+  {
+    "name": "Бургер",
+    "category": "fast_food",
+    "calories": 295,
+    "proteins": 17,
+    "fats": 14,
+    "carbs": 24
+  },
+  {
+    "name": "Хот-дог",
+    "category": "fast_food",
+    "calories": 290,
+    "proteins": 10,
+    "fats": 18,
+    "carbs": 22
+  },
+  {
+    "name": "Шаурма",
+    "category": "fast_food",
+    "calories": 250,
+    "proteins": 11,
+    "fats": 12,
+    "carbs": 24
+  },
+  {
+    "name": "Сыр",
+    "category": "fast_food",
+    "calories": 350,
+    "proteins": 26,
+    "fats": 27,
+    "carbs": 0
+  },
+  {
+    "name": "Лазанья",
+    "category": "main_dish",
+    "calories": 135,
+    "proteins": 6,
+    "fats": 8,
+    "carbs": 10
+  },
+  {
+    "name": "Плов",
+    "category": "main_dish",
+    "calories": 220,
+    "proteins": 6,
+    "fats": 10,
+    "carbs": 26
+  },
+  {
+    "name": "Пельмени",
+    "category": "main_dish",
+    "calories": 275,
+    "proteins": 12,
+    "fats": 12,
+    "carbs": 29
+  },
+  {
+    "name": "Вареники",
+    "category": "main_dish",
+    "calories": 190,
+    "proteins": 4.5,
+    "fats": 3.5,
+    "carbs": 35
+  },
+  {
+    "name": "Хинкали",
+    "category": "main_dish",
+    "calories": 235,
+    "proteins": 11,
+    "fats": 9,
+    "carbs": 26
+  },
+  {
+    "name": "Голубцы",
+    "category": "main_dish",
+    "calories": 145,
+    "proteins": 7,
+    "fats": 8,
+    "carbs": 11
+  },
+  {
+    "name": "Чай черный",
+    "category": "drink",
+    "calories": 4,
+    "proteins": 0.1,
+    "fats": 0,
+    "carbs": 0
+  },
+  {
+    "name": "Чай зеленый",
+    "category": "drink",
+    "calories": 1,
+    "proteins": 0.1,
+    "fats": 0,
+    "carbs": 0
+  },
+  {
+    "name": "Эспрессо",
+    "category": "drink",
+    "calories": 9,
+    "proteins": 0.12,
+    "fats": 0.18,
+    "carbs": 1.67
+  },
+  {
+    "name": "Американо",
+    "category": "drink",
+    "calories": 0.79,
+    "proteins": 0.05,
+    "fats": 0.03,
+    "carbs": 0.05
+  },
+  {
+    "name": "Капучино",
+    "category": "drink",
+    "calories": 48,
+    "proteins": 2.4,
+    "fats": 2.6,
+    "carbs": 3.8
+  },
+  {
+    "name": "Латте",
+    "category": "drink",
+    "calories": 56,
+    "proteins": 2.7,
+    "fats": 3,
+    "carbs": 4.7
+  },
+  {
+    "name": "Раф",
+    "category": "drink",
+    "calories": 96,
+    "proteins": 3,
+    "fats": 5.5,
+    "carbs": 10
+  },
+  {
+    "name": "Яблочный сок",
+    "category": "drink",
+    "calories": 46,
+    "proteins": 0.5,
+    "fats": 0.1,
+    "carbs": 10
+  },
+  {
+    "name": "Томатный сок",
+    "category": "drink",
+    "calories": 18,
+    "proteins": 1,
+    "fats": 0.1,
+    "carbs": 2.9
+  },
+  {
+    "name": "Апельсиновый сок",
+    "category": "drink",
+    "calories": 60,
+    "proteins": 0.5,
+    "fats": 0.1,
+    "carbs": 13.2
+  },
+  {
+    "name": "Ананасовый сок",
+    "category": "drink",
+    "calories": 46.5,
+    "proteins": 0.4,
+    "fats": 0.2,
+    "carbs": 11.5
+  },
+  {
+    "name": "Персиковый сок",
+    "category": "drink",
+    "calories": 68,
+    "proteins": 0.3,
+    "fats": 0,
+    "carbs": 16.5
+  },
+  {
+    "name": "Вишневый сок",
+    "category": "drink",
+    "calories": 51,
+    "proteins": 0.7,
+    "fats": 0.2,
+    "carbs": 11.4
+  },
+  {
+    "name": "Гранатовый сок",
+    "category": "drink",
+    "calories": 56,
+    "proteins": 0.3,
+    "fats": 0.1,
+    "carbs": 14.2
+  },
+  {
+    "name": "Мультифрукт",
+    "category": "drink",
+    "calories": 51,
+    "proteins": 0.1,
+    "fats": 0,
+    "carbs": 12
+  },
+  {
+    "name": "Газировка",
+    "category": "drink",
+    "calories": 42,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 11
+  },
+  {
+    "name": "Молоко",
+    "category": "drink",
+    "calories": 52,
+    "proteins": 2.8,
+    "fats": 2.5,
+    "carbs": 4.7
+  },
+  {
+    "name": "Макароны с гуляшом",
+    "category": "main_dish",
+    "calories": 172,
+    "proteins": 8.4,
+    "fats": 5.2,
+    "carbs": 22.1
+  },
+  {
+    "name": "Макароны с котлетой",
+    "category": "main_dish",
+    "calories": 205,
+    "proteins": 9.8,
+    "fats": 8.5,
+    "carbs": 22.4
+  },
+  {
+    "name": "Рис с курицей",
+    "category": "main_dish",
+    "calories": 151,
+    "proteins": 10.8,
+    "fats": 3.8,
+    "carbs": 18.4
+  },
+  {
+    "name": "Гречка с курицей",
+    "category": "main_dish",
+    "calories": 143,
+    "proteins": 11.2,
+    "fats": 3.6,
+    "carbs": 16.2
+  },
+  {
+    "name": "Гречка с котлетой",
+    "category": "main_dish",
+    "calories": 184,
+    "proteins": 9.7,
+    "fats": 7.8,
+    "carbs": 18.9
+  },
+  {
+    "name": "Картофельное пюре с котлетой",
+    "category": "main_dish",
+    "calories": 190,
+    "proteins": 8.2,
+    "fats": 9.2,
+    "carbs": 18.5
+  },
+  {
+    "name": "Курица с овощами",
+    "category": "main_dish",
+    "calories": 118,
+    "proteins": 14.5,
+    "fats": 4.2,
+    "carbs": 5.5
+  },
+  {
+    "name": "Рыба с рисом",
+    "category": "main_dish",
+    "calories": 142,
+    "proteins": 10.3,
+    "fats": 4.2,
+    "carbs": 16.1
+  },
+  {
+    "name": "Рыба с картофелем",
+    "category": "main_dish",
+    "calories": 135,
+    "proteins": 9.6,
+    "fats": 5,
+    "carbs": 13.2
+  },
+  {
+    "name": "Рыба с овощами",
+    "category": "main_dish",
+    "calories": 108,
+    "proteins": 11.4,
+    "fats": 4.8,
+    "carbs": 4.8
+  },
+  {
+    "name": "Лосось с рисом",
+    "category": "main_dish",
+    "calories": 169,
+    "proteins": 10.9,
+    "fats": 7.2,
+    "carbs": 15.3
+  },
+  {
+    "name": "Минтай с картофелем",
+    "category": "main_dish",
+    "calories": 118,
+    "proteins": 9.7,
+    "fats": 3.6,
+    "carbs": 12.4
+  },
+  {
+    "name": "Салат с курицей",
+    "category": "salad",
+    "calories": 126,
+    "proteins": 10.2,
+    "fats": 7.4,
+    "carbs": 4.2
+  },
+  {
+    "name": "Овощи гриль",
+    "category": "vegetable",
+    "calories": 72,
+    "proteins": 2,
+    "fats": 3.5,
+    "carbs": 8.2
+  },
+  {
+    "name": "Суп-пюре",
+    "category": "soup",
+    "calories": 58,
+    "proteins": 2,
+    "fats": 2.8,
+    "carbs": 6.5
+  },
+  {
+    "name": "Гороховый суп",
+    "category": "soup",
+    "calories": 66,
+    "proteins": 4.4,
+    "fats": 2.4,
+    "carbs": 7
+  },
+  {
+    "name": "Рассольник",
+    "category": "soup",
+    "calories": 46,
+    "proteins": 2.2,
+    "fats": 1.9,
+    "carbs": 5.3
+  },
+  {
+    "name": "Куриная грудка",
+    "category": "meat",
+    "calories": 113,
+    "proteins": 23.6,
+    "fats": 1.9,
+    "carbs": 0.4
+  },
+  {
+    "name": "Пюре",
+    "category": "side_dish",
+    "calories": 105,
+    "proteins": 2.3,
+    "fats": 4.2,
+    "carbs": 15
+  },
+  {
+    "name": "Паста",
+    "category": "side_dish",
+    "calories": 150,
+    "proteins": 5,
+    "fats": 1,
+    "carbs": 30
+  },
+  {
+    "name": "Спагетти",
+    "category": "side_dish",
+    "calories": 158,
+    "proteins": 5.8,
+    "fats": 0.9,
+    "carbs": 30.9
+  },
+  {
+    "name": "Картофель жареный",
+    "category": "side_dish",
+    "calories": 192,
+    "proteins": 2.8,
+    "fats": 9.5,
+    "carbs": 23.4
+  },
+  {
+    "name": "Омлет с овощами",
+    "category": "egg",
+    "calories": 145,
+    "proteins": 8.5,
+    "fats": 10.5,
+    "carbs": 4.3
+  },
+  {
+    "name": "Яичница с овощами",
+    "category": "egg",
+    "calories": 165,
+    "proteins": 9.6,
+    "fats": 12.2,
+    "carbs": 3.8
+  },
+  {
+    "name": "Вареное яйцо",
+    "category": "egg",
+    "calories": 157,
+    "proteins": 13,
+    "fats": 11,
+    "carbs": 1
+  },
+  {
+    "name": "Сэндвич",
+    "category": "fast_food",
+    "calories": 240,
+    "proteins": 10,
+    "fats": 9,
+    "carbs": 29
+  },
+  {
+    "name": "Пирожное",
+    "category": "dessert",
+    "calories": 335,
+    "proteins": 4.8,
+    "fats": 17.5,
+    "carbs": 40
+  },
+  {
+    "name": "Кекс",
+    "category": "dessert",
+    "calories": 330,
+    "proteins": 5.5,
+    "fats": 15,
+    "carbs": 43
+  },
+  {
+    "name": "Оладьи",
+    "category": "bakery",
+    "calories": 230,
+    "proteins": 6,
+    "fats": 7,
+    "carbs": 35
+  },
+  {
+    "name": "Вафли",
+    "category": "dessert",
+    "calories": 430,
+    "proteins": 6,
+    "fats": 19,
+    "carbs": 60
+  },
+  {
+    "name": "Йогурт",
+    "category": "drink",
+    "calories": 65,
+    "proteins": 3.5,
+    "fats": 2.5,
+    "carbs": 7
+  },
+  {
+    "name": "Кефир",
+    "category": "drink",
+    "calories": 53,
+    "proteins": 3,
+    "fats": 2.5,
+    "carbs": 4
+  },
+  {
+    "name": "Какао",
+    "category": "drink",
+    "calories": 77,
+    "proteins": 3,
+    "fats": 2.8,
+    "carbs": 10
+  },
+  {
+    "name": "Компот",
+    "category": "drink",
+    "calories": 60,
+    "proteins": 0.2,
+    "fats": 0,
+    "carbs": 14.5
+  },
+  {
+    "name": "Морс",
+    "category": "drink",
+    "calories": 46,
+    "proteins": 0.1,
+    "fats": 0,
+    "carbs": 11
+  },
+  {
+    "name": "Минеральная вода",
+    "category": "drink",
+    "calories": 0,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 0
+  },
+  {
+    "name": "Овсянка",
+    "category": "side_dish",
+    "calories": 88,
+    "proteins": 3.2,
+    "fats": 2.1,
+    "carbs": 16.5
+  },
+  {
+    "name": "Рисовая каша",
+    "category": "side_dish",
+    "calories": 97,
+    "proteins": 2.5,
+    "fats": 3.1,
+    "carbs": 16
+  },
+  {
+    "name": "Гречневая каша",
+    "category": "side_dish",
+    "calories": 110,
+    "proteins": 4.2,
+    "fats": 1.1,
+    "carbs": 21
+  },
+  {
+    "name": "Вареники с картофелем",
+    "category": "main_dish",
+    "calories": 180,
+    "proteins": 5,
+    "fats": 3.5,
+    "carbs": 32
+  },
+  {
+    "name": "Тефтели",
+    "category": "meat",
+    "calories": 190,
+    "proteins": 12,
+    "fats": 10,
+    "carbs": 12
+  },
+  {
+    "name": "Фрикадельки",
+    "category": "meat",
+    "calories": 180,
+    "proteins": 13,
+    "fats": 9,
+    "carbs": 10
+  },
+  {
+    "name": "Запеканка творожная",
+    "category": "dessert",
+    "calories": 168,
+    "proteins": 12,
+    "fats": 7,
+    "carbs": 14
+  },
+  {
+    "name": "Творожники",
+    "category": "dessert",
+    "calories": 220,
+    "proteins": 14,
+    "fats": 9,
+    "carbs": 19
+  },
+  {
+    "name": "Авокадо",
+    "category": "fruit",
+    "calories": 160,
+    "proteins": 2,
+    "fats": 14.7,
+    "carbs": 8.5
+  },
+  {
+    "name": "Черника",
+    "category": "fruit",
+    "calories": 57,
+    "proteins": 0.7,
+    "fats": 0.3,
+    "carbs": 14.5
+  },
+  {
+    "name": "Курица с рисом и овощами",
+    "category": "main_dish",
+    "calories": 138,
+    "proteins": 10.5,
+    "fats": 4,
+    "carbs": 15.2
+  },
+  {
+    "name": "Курица с картофелем",
+    "category": "main_dish",
+    "calories": 146,
+    "proteins": 11,
+    "fats": 5.3,
+    "carbs": 13.5
+  },
+  {
+    "name": "Курица с гречкой",
+    "category": "main_dish",
+    "calories": 142,
+    "proteins": 11.4,
+    "fats": 3.8,
+    "carbs": 15.8
+  },
+  {
+    "name": "Котлета с пюре",
+    "category": "main_dish",
+    "calories": 190,
+    "proteins": 8.2,
+    "fats": 9.2,
+    "carbs": 18.5
+  },
+  {
+    "name": "Сосиски с макаронами",
+    "category": "main_dish",
+    "calories": 214,
+    "proteins": 8.6,
+    "fats": 10.2,
+    "carbs": 22
+  },
+  {
+    "name": "Сосиски с пюре",
+    "category": "main_dish",
+    "calories": 198,
+    "proteins": 7.2,
+    "fats": 11,
+    "carbs": 17.4
+  },
+  {
+    "name": "Гуляш с гречкой",
+    "category": "main_dish",
+    "calories": 151,
+    "proteins": 8.8,
+    "fats": 5.2,
+    "carbs": 17
+  },
+  {
+    "name": "Гуляш с рисом",
+    "category": "main_dish",
+    "calories": 158,
+    "proteins": 8.4,
+    "fats": 5.4,
+    "carbs": 18.8
+  },
+  {
+    "name": "Свинина с картофелем",
+    "category": "main_dish",
+    "calories": 184,
+    "proteins": 8.4,
+    "fats": 10.2,
+    "carbs": 14.8
+  },
+  {
+    "name": "Говядина с овощами",
+    "category": "main_dish",
+    "calories": 137,
+    "proteins": 12.5,
+    "fats": 6,
+    "carbs": 6.5
+  },
+  {
+    "name": "Индейка с овощами",
+    "category": "main_dish",
+    "calories": 112,
+    "proteins": 14.2,
+    "fats": 3.2,
+    "carbs": 5.2
+  },
+  {
+    "name": "Омлет с сыром",
+    "category": "egg",
+    "calories": 210,
+    "proteins": 13,
+    "fats": 16,
+    "carbs": 2
+  },
+  {
+    "name": "Омлет с ветчиной",
+    "category": "egg",
+    "calories": 190,
+    "proteins": 12,
+    "fats": 14,
+    "carbs": 2.5
+  },
+  {
+    "name": "Салат Цезарь с курицей",
+    "category": "salad",
+    "calories": 185,
+    "proteins": 12,
+    "fats": 12,
+    "carbs": 7
+  },
+  {
+    "name": "Салат с тунцом",
+    "category": "salad",
+    "calories": 118,
+    "proteins": 10.5,
+    "fats": 6.5,
+    "carbs": 4
+  },
+  {
+    "name": "Салат из капусты",
+    "category": "salad",
+    "calories": 49,
+    "proteins": 1.5,
+    "fats": 2.5,
+    "carbs": 5.3
+  },
+  {
+    "name": "Морковный салат",
+    "category": "salad",
+    "calories": 85,
+    "proteins": 1.2,
+    "fats": 5.4,
+    "carbs": 8
+  },
+  {
+    "name": "Свекольный салат",
+    "category": "salad",
+    "calories": 92,
+    "proteins": 1.7,
+    "fats": 5.8,
+    "carbs": 8.2
+  },
+  {
+    "name": "Крем-суп грибной",
+    "category": "soup",
+    "calories": 72,
+    "proteins": 2.4,
+    "fats": 4.8,
+    "carbs": 5.5
+  },
+  {
+    "name": "Томатный суп",
+    "category": "soup",
+    "calories": 42,
+    "proteins": 1.5,
+    "fats": 1.6,
+    "carbs": 5.5
+  },
+  {
+    "name": "Сырный суп",
+    "category": "soup",
+    "calories": 82,
+    "proteins": 4.2,
+    "fats": 5.2,
+    "carbs": 4.8
+  },
+  {
+    "name": "Лапша куриная",
+    "category": "soup",
+    "calories": 57,
+    "proteins": 4,
+    "fats": 2,
+    "carbs": 5.8
+  },
+  {
+    "name": "Суп с фрикадельками",
+    "category": "soup",
+    "calories": 62,
+    "proteins": 4.5,
+    "fats": 3,
+    "carbs": 4.5
+  },
+  {
+    "name": "Бутерброд с сыром",
+    "category": "fast_food",
+    "calories": 275,
+    "proteins": 11,
+    "fats": 13.5,
+    "carbs": 27
+  },
+  {
+    "name": "Бутерброд с колбасой",
+    "category": "fast_food",
+    "calories": 295,
+    "proteins": 10.5,
+    "fats": 16,
+    "carbs": 27.5
+  },
+  {
+    "name": "Ролл",
+    "category": "fast_food",
+    "calories": 180,
+    "proteins": 7,
+    "fats": 6.5,
+    "carbs": 23
+  },
+  {
+    "name": "Суши",
+    "category": "main_dish",
+    "calories": 145,
+    "proteins": 6,
+    "fats": 2,
+    "carbs": 26
+  },
+  {
+    "name": "Картофель фри",
+    "category": "fast_food",
+    "calories": 312,
+    "proteins": 3.4,
+    "fats": 15,
+    "carbs": 41
+  },
+  {
+    "name": "Наггетсы",
+    "category": "fast_food",
+    "calories": 296,
+    "proteins": 15,
+    "fats": 19,
+    "carbs": 16
+  },
+  {
+    "name": "Тост",
+    "category": "bakery",
+    "calories": 290,
+    "proteins": 8.5,
+    "fats": 4,
+    "carbs": 53
+  },
+  {
+    "name": "Лаваш",
+    "category": "bakery",
+    "calories": 275,
+    "proteins": 9,
+    "fats": 1.2,
+    "carbs": 56
+  },
+  {
+    "name": "Булочка",
+    "category": "bakery",
+    "calories": 318,
+    "proteins": 7,
+    "fats": 9,
+    "carbs": 52
+  },
+  {
+    "name": "Слойка",
+    "category": "bakery",
+    "calories": 360,
+    "proteins": 6,
+    "fats": 20,
+    "carbs": 38
+  },
+  {
+    "name": "Ветчина",
+    "category": "meat",
+    "calories": 145,
+    "proteins": 18,
+    "fats": 7.5,
+    "carbs": 1
+  },
+  {
+    "name": "Творог 5%",
+    "category": "dairy",
+    "calories": 121,
+    "proteins": 17,
+    "fats": 5,
+    "carbs": 3
+  },
+  {
+    "name": "Сметана",
+    "category": "dairy",
+    "calories": 160,
+    "proteins": 2.6,
+    "fats": 15,
+    "carbs": 3.6
+  },
+  {
+    "name": "Ряженка",
+    "category": "drink",
+    "calories": 67,
+    "proteins": 2.8,
+    "fats": 4,
+    "carbs": 4.2
+  },
+  {
+    "name": "Протеиновый коктейль",
+    "category": "drink",
+    "calories": 95,
+    "proteins": 15,
+    "fats": 1.5,
+    "carbs": 5
+  },
+  {
+    "name": "Лимонад",
+    "category": "drink",
+    "calories": 42,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 10.5
+  },
+  {
+    "name": "Энергетик",
+    "category": "drink",
+    "calories": 45,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 11
+  },
+  {
+    "name": "Мандарин",
+    "category": "fruit",
+    "calories": 38,
+    "proteins": 0.8,
+    "fats": 0.2,
+    "carbs": 7.5
+  },
+  {
+    "name": "Кукуруза",
+    "category": "vegetable",
+    "calories": 96,
+    "proteins": 3.4,
+    "fats": 1.5,
+    "carbs": 21
+  },
+  {
+    "name": "Горошек",
+    "category": "vegetable",
+    "calories": 73,
+    "proteins": 5,
+    "fats": 0.2,
+    "carbs": 13.8
+  },
+  {
+    "name": "Фасоль",
+    "category": "vegetable",
+    "calories": 123,
+    "proteins": 7.8,
+    "fats": 0.5,
+    "carbs": 21.5
+  },
+  {
+    "name": "Котлета",
+    "category": "meat",
+    "calories": 230,
+    "proteins": 14.5,
+    "fats": 13,
+    "carbs": 13.5
+  },
+  {
+    "name": "Гуляш",
+    "category": "meat",
+    "calories": 130,
+    "proteins": 12.8,
+    "fats": 6.5,
+    "carbs": 3.2
+  },
+  {
+    "name": "Макароны с мясным гуляшом",
+    "category": "main_dish",
+    "calories": 176,
+    "proteins": 8.6,
+    "fats": 5.8,
+    "carbs": 22
+  },
+  {
+    "name": "Мясное блюдо с гарниром",
+    "category": "main_dish",
+    "calories": 178,
+    "proteins": 9.5,
+    "fats": 7,
+    "carbs": 18.5
+  },
+  {
+    "name": "Рыба с гарниром",
+    "category": "main_dish",
+    "calories": 138,
+    "proteins": 10.4,
+    "fats": 4.6,
+    "carbs": 14.5
+  },
+  {
+    "name": "Фастфуд",
+    "category": "fast_food",
+    "calories": 285,
+    "proteins": 10.5,
+    "fats": 14,
+    "carbs": 29
+  },
+  {
+    "name": "Десерт",
+    "category": "dessert",
+    "calories": 330,
+    "proteins": 5,
+    "fats": 16,
+    "carbs": 42
+  },
+  {
+    "name": "Выпечка",
+    "category": "bakery",
+    "calories": 320,
+    "proteins": 7,
+    "fats": 12,
+    "carbs": 46
+  },
+  {
+    "name": "Фрукты",
+    "category": "fruit",
+    "calories": 55,
+    "proteins": 0.7,
+    "fats": 0.2,
+    "carbs": 13
+  },
+  {
+    "name": "Овощи",
+    "category": "vegetable",
+    "calories": 45,
+    "proteins": 1.8,
+    "fats": 0.5,
+    "carbs": 8
+  },
+  {
+    "name": "Напиток",
+    "category": "drink",
+    "calories": 42,
+    "proteins": 0.2,
+    "fats": 0.1,
+    "carbs": 10
+  },
+  {
+    "name": "Омлет с болгарским перцем",
+    "category": "egg",
+    "calories": 148,
+    "proteins": 8.6,
+    "fats": 10.4,
+    "carbs": 4.6
+  },
+  {
+    "name": "Болгарский перец",
+    "category": "vegetable",
+    "calories": 27,
+    "proteins": 1.3,
+    "fats": 0.1,
+    "carbs": 5.3
+  },
+  {
+    "name": "Помидоры",
+    "category": "vegetable",
+    "calories": 20,
+    "proteins": 1.1,
+    "fats": 0.2,
+    "carbs": 3.7
+  },
+  {
+    "name": "Огурцы",
+    "category": "vegetable",
+    "calories": 15,
+    "proteins": 0.8,
+    "fats": 0.1,
+    "carbs": 2.8
+  },
+  {
+    "name": "Тушеные овощи",
+    "category": "vegetable",
+    "calories": 65,
+    "proteins": 1.8,
+    "fats": 3.6,
+    "carbs": 6.8
+  },
+  {
+    "name": "Чай",
+    "category": "drink",
+    "calories": 1,
+    "proteins": 0,
+    "fats": 0,
+    "carbs": 0.2
+  },
+  {
+    "name": "Кофе",
+    "category": "drink",
+    "calories": 2,
+    "proteins": 0.2,
+    "fats": 0,
+    "carbs": 0.3
+  },
+  {
+    "name": "Сок",
+    "category": "drink",
+    "calories": 46,
+    "proteins": 0.3,
+    "fats": 0.1,
+    "carbs": 11
+  },
+  {
+    "name": "Фруктовая тарелка",
+    "category": "fruit",
+    "calories": 58,
+    "proteins": 0.8,
+    "fats": 0.3,
+    "carbs": 13.5
+  },
+  {
+    "name": "Овощная тарелка",
+    "category": "vegetable",
+    "calories": 42,
+    "proteins": 1.7,
+    "fats": 0.4,
+    "carbs": 7.8
+  },
+  {
+    "name": "Листовой салат",
+    "category": "vegetable",
+    "calories": 15,
+    "proteins": 1.4,
+    "fats": 0.2,
+    "carbs": 2.9
+  },
+  {
+    "name": "Зеленый горошек",
+    "category": "vegetable",
+    "calories": 73,
+    "proteins": 5,
+    "fats": 0.2,
+    "carbs": 13.8
+  },
+  {
+    "name": "Ягоды",
+    "category": "fruit",
+    "calories": 48,
+    "proteins": 0.8,
+    "fats": 0.3,
+    "carbs": 11
+  },
+  {
+    "name": "Фруктовый микс",
+    "category": "fruit",
+    "calories": 62,
+    "proteins": 0.8,
+    "fats": 0.3,
+    "carbs": 14.2
+  },
+  {
+    "name": "Лук",
+    "category": "vegetable",
+    "calories": 40,
+    "proteins": 1.1,
+    "fats": 0.1,
+    "carbs": 9.3
+  },
+  {
+    "name": "Красный лук",
+    "category": "vegetable",
+    "calories": 42,
+    "proteins": 1.2,
+    "fats": 0.1,
+    "carbs": 9.5
+  },
+  {
+    "name": "Зеленый лук",
+    "category": "vegetable",
+    "calories": 20,
+    "proteins": 1.3,
+    "fats": 0.1,
+    "carbs": 3.2
+  },
+  {
+    "name": "Подсолнечное масло",
+    "category": "dressing",
+    "calories": 899,
+    "proteins": 0,
+    "fats": 99.9,
+    "carbs": 0
+  },
+  {
+    "name": "Оливковое масло",
+    "category": "dressing",
+    "calories": 884,
+    "proteins": 0,
+    "fats": 100,
+    "carbs": 0
+  },
+  {
+    "name": "Растительное масло",
+    "category": "dressing",
+    "calories": 899,
+    "proteins": 0,
+    "fats": 99.9,
+    "carbs": 0
+  },
+  {
+    "name": "Майонез",
+    "category": "dressing",
+    "calories": 627,
+    "proteins": 2.4,
+    "fats": 67,
+    "carbs": 3.9
+  },
+  {
+    "name": "Сметана 15%",
+    "category": "dressing",
+    "calories": 160,
+    "proteins": 2.6,
+    "fats": 15,
+    "carbs": 3.6
+  },
+  {
+    "name": "Сметана 20%",
+    "category": "dressing",
+    "calories": 204,
+    "proteins": 2.5,
+    "fats": 20,
+    "carbs": 3.4
+  },
+  {
+    "name": "Йогуртовая заправка",
+    "category": "dressing",
+    "calories": 90,
+    "proteins": 3.5,
+    "fats": 4.5,
+    "carbs": 8
+  },
+  {
+    "name": "Натуральный йогурт",
+    "category": "dressing",
+    "calories": 66,
+    "proteins": 4.3,
+    "fats": 3.2,
+    "carbs": 5
+  },
+  {
+    "name": "Соевый соус",
+    "category": "dressing",
+    "calories": 53,
+    "proteins": 8,
+    "fats": 0.6,
+    "carbs": 4.9
+  },
+  {
+    "name": "Лимонный сок",
+    "category": "dressing",
+    "calories": 22,
+    "proteins": 0.4,
+    "fats": 0.2,
+    "carbs": 6.9
+  },
+  {
+    "name": "Картофель вареный",
+    "category": "vegetable",
+    "calories": 82,
+    "proteins": 2,
+    "fats": 0.4,
+    "carbs": 16.7
+  },
+  {
+    "name": "Морковь вареная",
+    "category": "vegetable",
+    "calories": 35,
+    "proteins": 0.8,
+    "fats": 0.2,
+    "carbs": 8.2
+  },
+  {
+    "name": "Свекла вареная",
+    "category": "vegetable",
+    "calories": 49,
+    "proteins": 1.8,
+    "fats": 0.1,
+    "carbs": 10.8
+  },
+  {
+    "name": "Соленые огурцы",
+    "category": "vegetable",
+    "calories": 13,
+    "proteins": 0.8,
+    "fats": 0.1,
+    "carbs": 2.3
+  },
+  {
+    "name": "Маринованные огурцы",
+    "category": "vegetable",
+    "calories": 16,
+    "proteins": 0.4,
+    "fats": 0.1,
+    "carbs": 2.8
+  },
+  {
+    "name": "Консервированный горошек",
+    "category": "vegetable",
+    "calories": 55,
+    "proteins": 3.6,
+    "fats": 0.1,
+    "carbs": 9.8
+  },
+  {
+    "name": "Консервированная кукуруза",
+    "category": "vegetable",
+    "calories": 96,
+    "proteins": 3.4,
+    "fats": 1.5,
+    "carbs": 21
+  },
+  {
+    "name": "Докторская колбаса",
+    "category": "meat",
+    "calories": 257,
+    "proteins": 12.8,
+    "fats": 22.2,
+    "carbs": 1.5
+  },
+  {
+    "name": "Крабовые палочки",
+    "category": "fish",
+    "calories": 95,
+    "proteins": 6,
+    "fats": 1,
+    "carbs": 15
+  },
+  {
+    "name": "Тунец консервированный",
+    "category": "fish",
+    "calories": 116,
+    "proteins": 25.5,
+    "fats": 1,
+    "carbs": 0
+  },
+  {
+    "name": "Листья салата",
+    "category": "vegetable",
+    "calories": 15,
+    "proteins": 1.4,
+    "fats": 0.2,
+    "carbs": 2.9
+  },
+  {
+    "name": "Салат айсберг",
+    "category": "vegetable",
+    "calories": 14,
+    "proteins": 0.9,
+    "fats": 0.1,
+    "carbs": 3
+  },
+  {
+    "name": "Романо",
+    "category": "vegetable",
+    "calories": 17,
+    "proteins": 1.2,
+    "fats": 0.3,
+    "carbs": 3.3
+  },
+  {
+    "name": "Пекинская капуста",
+    "category": "vegetable",
+    "calories": 16,
+    "proteins": 1.2,
+    "fats": 0.2,
+    "carbs": 2
+  },
+  {
+    "name": "Сухарики",
+    "category": "bakery",
+    "calories": 407,
+    "proteins": 11,
+    "fats": 10,
+    "carbs": 70
+  },
+  {
+    "name": "Пармезан",
+    "category": "dairy",
+    "calories": 431,
+    "proteins": 38,
+    "fats": 29,
+    "carbs": 4
+  },
+  {
+    "name": "Фета",
+    "category": "dairy",
+    "calories": 264,
+    "proteins": 14.2,
+    "fats": 21.3,
+    "carbs": 4.1
+  },
+  {
+    "name": "Брынза",
+    "category": "dairy",
+    "calories": 262,
+    "proteins": 17.9,
+    "fats": 20.1,
+    "carbs": 0.4
+  },
+  {
+    "name": "Маслины",
+    "category": "vegetable",
+    "calories": 115,
+    "proteins": 0.8,
+    "fats": 10.7,
+    "carbs": 6.3
+  },
+  {
+    "name": "Оливки",
+    "category": "vegetable",
+    "calories": 145,
+    "proteins": 1,
+    "fats": 15.3,
+    "carbs": 3.8
+  },
+  {
+    "name": "Соус Цезарь",
+    "category": "dressing",
+    "calories": 430,
+    "proteins": 3,
+    "fats": 43,
+    "carbs": 7
+  },
+  {
+    "name": "Бальзамический уксус",
+    "category": "dressing",
+    "calories": 88,
+    "proteins": 0.5,
+    "fats": 0,
+    "carbs": 17
+  },
+  {
+    "name": "Горчица",
+    "category": "dressing",
+    "calories": 143,
+    "proteins": 9.9,
+    "fats": 5.3,
+    "carbs": 12.7
+  },
+  {
+    "name": "Кетчуп",
+    "category": "dressing",
+    "calories": 112,
+    "proteins": 1.3,
+    "fats": 0.2,
+    "carbs": 26
+  },
+  {
+    "name": "Чесночный соус",
+    "category": "dressing",
+    "calories": 335,
+    "proteins": 2,
+    "fats": 32,
+    "carbs": 8
+  },
+  {
+    "name": "Томатная паста",
+    "category": "vegetable",
+    "calories": 82,
+    "proteins": 4.3,
+    "fats": 0.5,
+    "carbs": 18.9
+  },
+  {
+    "name": "Куриный бульон",
+    "category": "soup",
+    "calories": 36,
+    "proteins": 3.5,
+    "fats": 1.2,
+    "carbs": 2.5
+  },
+  {
+    "name": "Говяжий бульон",
+    "category": "soup",
+    "calories": 28,
+    "proteins": 4,
+    "fats": 1.2,
+    "carbs": 0.2
+  },
+  {
+    "name": "Рис отварной",
+    "category": "side_dish",
+    "calories": 130,
+    "proteins": 2.7,
+    "fats": 0.3,
+    "carbs": 28
+  },
+  {
+    "name": "Рис для суши",
+    "category": "side_dish",
+    "calories": 140,
+    "proteins": 2.4,
+    "fats": 0.3,
+    "carbs": 31
+  },
+  {
+    "name": "Нори",
+    "category": "vegetable",
+    "calories": 349,
+    "proteins": 45,
+    "fats": 4,
+    "carbs": 34
+  },
+  {
+    "name": "Лосось слабосоленый",
+    "category": "fish",
+    "calories": 202,
+    "proteins": 22.5,
+    "fats": 12.5,
+    "carbs": 0
+  },
+  {
+    "name": "Творожный сыр",
+    "category": "dairy",
+    "calories": 245,
+    "proteins": 6,
+    "fats": 22,
+    "carbs": 4
+  },
+  {
+    "name": "Креветки",
+    "category": "fish",
+    "calories": 99,
+    "proteins": 24,
+    "fats": 0.3,
+    "carbs": 0.2
+  },
+  {
+    "name": "Киноа",
+    "category": "side_dish",
+    "calories": 120,
+    "proteins": 4.4,
+    "fats": 1.9,
+    "carbs": 21.3
+  },
+  {
+    "name": "Нут",
+    "category": "vegetable",
+    "calories": 164,
+    "proteins": 8.9,
+    "fats": 2.6,
+    "carbs": 27.4
+  },
+  {
+    "name": "Хумус",
+    "category": "dressing",
+    "calories": 166,
+    "proteins": 7.9,
+    "fats": 9.6,
+    "carbs": 14.3
+  },
+  {
+    "name": "Тахини",
+    "category": "dressing",
+    "calories": 595,
+    "proteins": 17,
+    "fats": 53,
+    "carbs": 21
+  },
+  {
+    "name": "Семена кунжута",
+    "category": "dressing",
+    "calories": 573,
+    "proteins": 17.7,
+    "fats": 49.7,
+    "carbs": 23.4
+  },
+  {
+    "name": "Семечки подсолнечные",
+    "category": "dressing",
+    "calories": 584,
+    "proteins": 20.8,
+    "fats": 51.5,
+    "carbs": 20
+  }
+]

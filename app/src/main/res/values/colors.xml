@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Основной акцент -->
+    <color name="accent_primary">#8FB985</color>
+    <color name="accent_dark">#5F8F55</color>
+
+    <!-- Вторичные акценты для нутриентов -->
+    <color name="accent_secondary">#F05D7B</color>
+    <color name="protein_accent">#FF8175</color>
+    <color name="fat_accent">#F6C76A</color>
+    <color name="carb_accent">#70A8EA</color>
+    <color name="water_accent">#5E95E8</color>
+
+    <!-- Фоны -->
+    <color name="bg_primary">#F6F8F4</color>
+    <color name="bg_secondary">#EFEFEF</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="surface_soft">#EEF3EA</color>
+    <color name="nav_active_bg">#E4F0DF</color>
+    <color name="bottom_nav_bg">#FFFFFF</color>
+
+    <!-- Текст -->
+    <color name="text_primary">#111111</color>
+    <color name="text_secondary">#9A9A9A</color>
+    <color name="text_muted">#B8B8B8</color>
+
+    <!-- Текст / иконки на акценте -->
+    <color name="on_accent">#FFFFFF</color>
+
+    <color name="gray_light">#E4E4E4</color>
+    <color name="stroke_light">#ECECEC</color>
+    <color name="bottom_nav_item">#5F8F55</color>
+    <color name="bottom_nav_item_unselected">#A3A3A3</color>
+</resources>

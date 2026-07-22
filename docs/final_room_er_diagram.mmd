@@ -1,0 +1,118 @@
+erDiagram
+    PROFILES {
+        string id PK
+        string email
+        string fullName
+        string avatarUrl
+        string createdAt
+        string updatedAt
+    }
+
+    FOODS {
+        string id PK
+        string name
+        string category
+        float calories
+        float proteins
+        float fats
+        float carbs
+    }
+
+    RECIPES {
+        string id PK
+        string userId FK
+        string title
+        string description
+        string imageUri
+        string category
+        int cookingTime
+        int servings
+        int calories
+        float proteins
+        float fats
+        float carbs
+        string createdAt
+        long updatedAt
+    }
+
+    RECIPE_INGREDIENTS {
+        string id PK
+        string recipeId FK
+        string foodId FK
+        string name
+        float weight
+        string unit
+        float calories
+        float proteins
+        float fats
+        float carbs
+    }
+
+    FAVORITES {
+        string userId PK,FK
+        string recipeId PK,FK
+        long createdAt
+    }
+
+    ANALYSIS_HISTORY {
+        string id PK
+        string userId FK
+        string name
+        int calories
+        float proteins
+        float fats
+        float carbs
+        string imageUri
+        int weight
+        float confidence
+        string aiSummary
+        string topPredictions
+        long date
+    }
+
+    ANALYSIS_COMPONENTS {
+        string id PK
+        string analysisId FK
+        string foodId FK
+        string name
+        int weight
+        int calories
+        float proteins
+        float fats
+        float carbs
+        float confidence
+    }
+
+    BARCODE_PRODUCTS {
+        string barcode PK
+        string userId FK
+        string name
+        int calories
+        float proteins
+        float fats
+        float carbs
+        int weight
+        string createdAt
+    }
+
+    ANALYSIS_CORRECTIONS {
+        string id PK
+        string userId FK
+        string imageHash
+        string modelPrediction
+        string correctedName
+        long createdAt
+    }
+
+    PROFILES ||--o{ RECIPES : "создает"
+    PROFILES ||--o{ FAVORITES : "имеет"
+    PROFILES ||--o{ ANALYSIS_HISTORY : "выполняет"
+    PROFILES ||--o{ BARCODE_PRODUCTS : "добавляет"
+    PROFILES ||--o{ ANALYSIS_CORRECTIONS : "исправляет"
+
+    RECIPES ||--o{ RECIPE_INGREDIENTS : "содержит"
+    RECIPES ||--o{ FAVORITES : "добавлен"
+    FOODS ||--o{ RECIPE_INGREDIENTS : "используется"
+
+    ANALYSIS_HISTORY ||--o{ ANALYSIS_COMPONENTS : "состоит из"
+    FOODS ||--o{ ANALYSIS_COMPONENTS : "соответствует"

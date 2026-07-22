@@ -1,0 +1,44 @@
+erDiagram
+    RECIPES {
+        string id PK
+        string title
+        string description
+        string ingredients
+        int calories
+        int proteins
+        int fats
+        int carbs
+        string imageUri
+        boolean isFavorite
+        string category
+        int cookingTime
+        string createdAt
+        long updatedAt
+    }
+
+    ANALYSIS_HISTORY {
+        string id PK
+        string name
+        int calories
+        float proteins
+        float fats
+        float carbs
+        string imageUri
+        int weight
+        float confidence
+        string aiSummary
+        string topPredictions
+        long date
+    }
+
+    BARCODE_PRODUCTS {
+        string barcode PK
+        string name
+        int calories
+        float proteins
+        float fats
+        float carbs
+        int weight
+        string userId
+        string createdAt
+    }

@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_recipes"
+        android:icon="@drawable/ic_nav_home"
+        android:title="Главная" />
+
+    <item
+        android:id="@+id/menu_favorites"
+        android:icon="@drawable/ic_nav_heart"
+        android:title="Избранное" />
+
+
+    <item
+        android:id="@+id/menu_ai"
+        android:icon="@drawable/ic_nav_ai"
+        android:title="ИИ-анализ" />
+
+    <item
+        android:id="@+id/menu_account"
+        android:icon="@drawable/ic_nav_account"
+        android:title="Аккаунт" />
+
+</menu>

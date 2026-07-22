@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.CookBookAI" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Основной брендовый цвет -->
+        <item name="colorPrimary">@color/accent_primary</item>
+        <item name="colorOnPrimary">@color/on_accent</item>
+
+        <!-- Вторичный (акцентный) -->
+        <item name="colorSecondary">@color/accent_secondary</item>
+        <item name="colorOnSecondary">@color/on_accent</item>
+
+        <!-- Фоны -->
+        <item name="android:colorBackground">@color/bg_primary</item>
+        <item name="colorSurface">@color/bg_primary</item>
+        <item name="colorSurfaceVariant">@color/bg_secondary</item>
+
+        <!-- Текст -->
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+
+        <!-- Контейнеры (очень важно для Material 3) -->
+        <item name="colorPrimaryContainer">@color/bg_secondary</item>
+        <item name="colorOnPrimaryContainer">@color/accent_dark</item>
+
+        <item name="colorSecondaryContainer">@color/bg_secondary</item>
+        <item name="colorOnSecondaryContainer">@color/accent_dark</item>
+
+    </style>
+
+    <style name="Widget.CookBookAI.BottomNav.ActiveIndicator" parent="">
+        <item name="android:width">58dp</item>
+        <item name="android:height">34dp</item>
+        <item name="android:color">@color/nav_active_bg</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.CookBookAI.BottomNav.ActiveIndicator</item>
+    </style>
+
+    <style name="ShapeAppearance.CookBookAI.BottomNav.ActiveIndicator" parent="">
+        <item name="cornerSize">18dp</item>
+    </style>
+
+    <style name="TextAppearance.CookBookAI.BottomNav.Active" parent="TextAppearance.Material3.LabelMedium">
+        <item name="android:textSize">11sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.CookBookAI.BottomNav.Inactive" parent="TextAppearance.Material3.LabelMedium">
+        <item name="android:textSize">11sp</item>
+    </style>
+
+</resources>
